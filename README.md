@@ -2,6 +2,8 @@
 
 基于 IUCN 全球生态系统分类法（Global Ecosystem Typology）的桌面选择工具。
 
+![应用截图](screenshots/example.png)
+
 ## 功能特性
 
 - **三步式选择流程**：Realm（生态域）→ Biome（生物群系）→ EFG（生态系统功能组）
