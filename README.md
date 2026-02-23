@@ -1,8 +1,16 @@
 # IUCN GET Ecosystem Selector
 
+![GitHub stars](https://img.shields.io/github/stars/x380kkm/iucn-get-selector?style=social)
+![License](https://img.shields.io/github/license/x380kkm/iucn-get-selector)
+![Downloads](https://img.shields.io/github/downloads/x380kkm/iucn-get-selector/total)
+
 基于 IUCN 全球生态系统分类法（Global Ecosystem Typology）的桌面选择工具。
 
 ![应用截图](screenshots/example.png)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=x380kkm/iucn-get-selector&type=Date)](https://star-history.com/#x380kkm/iucn-get-selector&Date)
 
 ## 功能特性
 
