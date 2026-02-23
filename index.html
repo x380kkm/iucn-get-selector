@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IUCN GET Ecosystem Selector</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Header -->
+    <div class="header">
+      <div class="header-content">
+        <div>
+          <h1 id="app-title">IUCN GET Ecosystem Selector</h1>
+          <p id="app-subtitle">Global Ecosystem Typology - Multi-Selection Process</p>
+        </div>
+        <div class="language-switcher">
+          <button class="lang-btn active" data-lang="en">EN</button>
+          <button class="lang-btn" data-lang="zh">中文</button>
+          <button class="lang-btn" data-lang="ja">日本語</button>
+          <button class="btn-reset-header" id="btn-reset-header" data-i18n="btn_reset">Reset</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Main Content - Selection Steps -->
+    <div class="main-content" id="selection-view">
+      <!-- Step 1: Realm -->
+      <div class="step-panel" id="step-realm">
+        <div class="step-header">
+          <h2 id="step1-title">Step 1: Select Realms</h2>
+          <p id="step1-subtitle">Choose one or more ecosystem realms</p>
+          <div class="selection-count">
+            <span id="realm-count">0</span> <span id="realm-count-label">selected</span>
+          </div>
+        </div>
+        <div class="step-content" id="realm-list"></div>
+        <div class="step-footer">
+          <button class="btn btn-primary" id="btn-confirm-realm" disabled data-i18n="btn_confirm">Confirm Selection</button>
+        </div>
+      </div>
+
+      <!-- Step 2: Biome -->
+      <div class="step-panel inactive" id="step-biome">
+        <div class="step-header">
+          <h2 id="step2-title">Step 2: Select Biomes</h2>
+          <p id="step2-subtitle">Choose biomes within selected realms</p>
+          <div class="selection-count">
+            <span id="biome-count">0</span> <span id="biome-count-label">selected</span>
+          </div>
+        </div>
+        <div class="step-content" id="biome-list"></div>
+        <div class="step-footer">
+          <button class="btn btn-primary" id="btn-confirm-biome" disabled data-i18n="btn_confirm">Confirm Selection</button>
+        </div>
+      </div>
+
+      <!-- Step 3: EFG -->
+      <div class="step-panel inactive" id="step-efg">
+        <div class="step-header">
+          <h2 id="step3-title">Step 3: Select EFGs</h2>
+          <p id="step3-subtitle">Choose Ecosystem Functional Groups</p>
+          <div class="selection-count">
+            <span id="efg-count">0</span> <span id="efg-count-label">selected</span>
+          </div>
+        </div>
+        <div class="step-content" id="efg-list"></div>
+        <div class="step-footer">
+          <button class="btn btn-primary" id="btn-to-results" disabled data-i18n="btn_next">Next Step</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Results Management View -->
+    <div class="results-view" id="results-view" style="display: none;">
+      <div class="results-header">
+        <h2 id="step4-title">Step 4: Manage Results</h2>
+        <p id="step4-subtitle">Drag to reorder, export your selection</p>
+      </div>
+
+      <div class="results-content">
+        <div class="results-list" id="results-list"></div>
+      </div>
+
+      <div class="results-footer">
+        <button class="btn btn-secondary" id="btn-back-to-selection" data-i18n="btn_back">Back to Selection</button>
+        <button class="btn btn-export" id="btn-export-json-results" data-i18n="btn_export_json">Export JSON</button>
+        <button class="btn btn-export" id="btn-export-csv-results" data-i18n="btn_export_csv">Export CSV</button>
+        <button class="btn btn-reset" id="btn-reset-all" data-i18n="btn_reset">Reset All</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Tooltip -->
+  <div class="tooltip" id="tooltip"></div>
+
+  <script src="renderer.js"></script>
+</body>
+</html>

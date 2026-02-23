@@ -1,0 +1,42 @@
+{
+  "name": "iucn-get-selector",
+  "version": "1.0.0",
+  "description": "IUCN Global Ecosystem Typology Selector - Desktop Application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --dev",
+    "build": "electron-builder"
+  },
+  "keywords": [
+    "iucn",
+    "ecosystem",
+    "selector",
+    "electron"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.3.3",
+    "electron-builder": "^24.13.3"
+  },
+  "build": {
+    "appId": "com.iucn.get.selector",
+    "productName": "IUCN GET Selector",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "main.js",
+      "renderer.js",
+      "index.html",
+      "styles.css",
+      "i18n.json",
+      "data/**/*",
+      "!data/images/**/*"
+    ],
+    "win": {
+      "target": "portable"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "F": {
+    "code": "F",
+    "url": "https://global-ecosystems.org/explore/realms/F",
+    "scraped": true,
+    "error": null,
+    "name": "Freshwater",
+    "description": "The Freshwater Realm includes all permanent and temporary freshwater bodies as well as saline water bodies that are not directly connected to the oceans, and are characterised by water regimes defined by frequency, duration, flow velocity, depth and extent of inundation.\nAlthough some authorities describe this same unit as ‘inland water bodies’, we follow a conventional interpretation that includes saline water bodies as ‘freshwater’ for nomenclatural brevity and to avoid implications that freshwaters are always distant from the coast. Flow regimes are critical to the structure and function of freshwater ecosystems. They regulate allochthonous inputs of water and nutrients from catchments, as well as inundation and drying regimes and turbulence. Catchment geomorphology, substrates and climate are key components of the ambient environment that regulate resource inputs and disturbance regimes. Trophic complexity increases with the size and connectivity of the water body. Biota of the benthos and the water column are closely associated with flow regimes and catchments in the diverse expressions of freshwater ecosystems.\nThe freshwater realm transitions to palustrine wetlands, subterranean freshwater systems, brackish aquatic and brackish tidal systems."
+  },
+  "FM": {
+    "code": "FM",
+    "url": "https://global-ecosystems.org/explore/realms/FM",
+    "scraped": true,
+    "error": null,
+    "name": "Freshwater-Marine",
+    "description": "Transitional realms accommodate continuous variation among the core units.\nThe freshwater-marine transitional realm is occupied by brackish aquatic ecosystems on marine coasts. It shares features of the freshwater and the marine realms, and transitions to brackish tidal systems."
+  },
+  "M": {
+    "code": "M",
+    "url": "https://global-ecosystems.org/explore/realms/M",
+    "scraped": true,
+    "error": null,
+    "name": "Marine",
+    "description": "The Marine Realm includes all connected saline ocean waters characterised by waves, tides and currents.\nThese processes transport resources and biota over short temporal and local spatial scales (waves) to global circulation over centuries (deep ocean currents). The availability of light and nutrients diminishes along depth gradients. Oxygen may be locally limited in zones of high heterotrophic activity. Salient ambient environmental factors include substrate type (hard vs soft), which influences the traits of benthic fauna and geomorphology, which influences the movement of deep currents and local or regional upwelling. Upwelling is critical to the supply of nutrients to euphotic waters, and hence productivity and trophic complexity. Primary productivity is contributed mainly by planktonic algae, but benthic macrophytes can make important contributions on parts of the marine shelf. Trophic interactions are critical to the structure of many marine ecosystems through top-down regulation.\nThe marine realm transitions to shoreline and supralittoral, subterranean tidal, brackish aquatic and brackish tidal systems."
+  },
+  "MFT": {
+    "code": "MFT",
+    "url": "https://global-ecosystems.org/explore/realms/MFT",
+    "scraped": true,
+    "error": null,
+    "name": "Marine-Freshwater-Terrestrial",
+    "description": "Transitional realms accommodate continuous variation among the core units.\nThe interface of marine and terrestrial seepage is sometimes influenced by seepage or outflow of freshwater, supporting intertidal wetlands and deltaic systems.\nIt shares features of the freshwater, marine and terrestrial core realms."
+  },
+  "MT": {
+    "code": "MT",
+    "url": "https://global-ecosystems.org/explore/realms/MT",
+    "scraped": true,
+    "error": null,
+    "name": "Marine-Terrestrial",
+    "description": "Transitional realms accommodate continuous variation among the core units.\nThe marine-terrestrial transitional realm is characterised by steep environmental gradients in desiccation, salinity and wave and tide disturbance, occupied by contrasting shoreline ecosystems.\nIt shares features of the marine and terrestrial core realms."
+  },
+  "S": {
+    "code": "S",
+    "url": "https://global-ecosystems.org/explore/realms/S",
+    "scraped": true,
+    "error": null,
+    "name": "Subterranean",
+    "description": "The Subterranean realm includes the earth’s crust and subsurface voids characterised by an absence or very low intensity of sunlight.\nEnergy is therefore a major resource driver in these ecosystems, although other resources such as water and carbon, may sometimes be limiting. The ambient environment is relatively stable, although extreme temperatures occur in local areas influenced by vulcanism and substrate type influences availability of nutrients and seepage of moisture. Disturbances are rare and limited to mass movement or subterranean fires restricted to coal, oil or gas strata, with combustion rates limited by oxygen. Subterranean trophic webs are truncated, lacking photoautotrophs, herbivores and large predators. The microbial biota is a key feature in the expression of different subterranean ecosystems.\nThe subterranean realm transitions to subterranean freshwater and subterranean tidal systems."
+  },
+  "SF": {
+    "code": "SF",
+    "url": "https://global-ecosystems.org/explore/realms/SF",
+    "scraped": true,
+    "error": null,
+    "name": "Subterranean-Freshwater",
+    "description": "Transitional realms accommodate continuous variation among the core units.\nUnique ecosystems also occur where the subterranean realm meets the interface of freshwater and marine realms, respectively.\nIt shares features of the freshwater, and subterranean core realms."
+  },
+  "SM": {
+    "code": "SM",
+    "url": "https://global-ecosystems.org/explore/realms/SM",
+    "scraped": true,
+    "error": null,
+    "name": "Subterranean-Marine",
+    "description": "Transitional realms accommodate continuous variation among the core units.\nUnique ecosystems also occur where the subterranean realm meets the interface of freshwater and marine realms, respectively.\nIt shares features of the marine, and subterranean core realms."
+  },
+  "T": {
+    "code": "T",
+    "url": "https://global-ecosystems.org/explore/realms/T",
+    "scraped": true,
+    "error": null,
+    "name": "Terrestrial",
+    "description": "The Terrestrial realm includes all dry land, its vegetation cover, proximate atmosphere and substrate (soils, rocks) to the rooting depth of plants, and associated animals and microbes.\nWater and nutrients are the principal resource drivers, with energy, oxygen and carbon rarely limiting. Temperature and its variability on interannual, seasonal and diurnal time scales, is a major ambient environmental driver, with ecosystem function and structure responding to global latitudinal and altitudinal climatic gradients. Fire is a major ecosystem driver, essentially unique to the terrestrial realm, although it may occur rarely in the subterranean realm. Gradients in these key resources, ambient environmental factors and disturbance regimes influence biotic interactions, with the strength of competition, predation and pathogenicity varying greatly across the realm. Human activity is a key driver through structural manipulations associated with land use, but also through movement of biota and anthropogenic climate change. The complexity of trophic webs is similarly variable, with vegetation a key feature in the expression of different ecosystem types within the realm.\nThe terrestrial realm transitions to palustrine wetlands, shoreline and supralittoral and brackish tidal systems."
+  },
+  "TF": {
+    "code": "TF",
+    "url": "https://global-ecosystems.org/explore/realms/TF",
+    "scraped": true,
+    "error": null,
+    "name": "Terrestrial-Freshwater",
+    "description": "Transitional realms accommodate continuous variation among the core units.\nThe interface between terrestrial and freshwater realms is occupied by palustrine wetlands, some of which accumulate peat under impeded substrate drainage.\nIt shares features of the freshwater and terrestrial core realms."
+  }
+}

@@ -1,0 +1,1337 @@
+{
+  "F1": {
+    "code": "F1",
+    "url": "https://global-ecosystems.org/explore/biomes/F1",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F1_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_1_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F1_18.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_1_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F1_19.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_1_3.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F1_20.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_1_4.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F1_21.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_1_5.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F1_22.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_1_6.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F1_23.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_1_7.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F1_24.jpg"
+      }
+    ],
+    "image_count": 8,
+    "i18n": {
+      "en": {
+        "name": "F1Rivers and streams biome",
+        "description": "Rivers and streams are lotic ecosystems characterized by unidirectional water flow, linear structure, and strong interactions with surrounding landscapes. They originate from uplands or springs and flow towards deltas, estuaries, or lakes, draining catchments separated by watersheds. Flow regimes vary with stream order, rainfall, and regional climate, ranging from perennial to seasonal or episodic. Stream gradients influence flow velocity, turbulence, substrate structure, and habitat variability. Arid-zone rivers may remain dry for years, while streams in cold climates freeze in winter, limiting productivity and organism movement.\n\nProductivity increases downstream, driven by allochthonous inputs (organic matter from riparian zones) in uplands and autochthonous energy (biofilms, phytoplankton) in larger, slower rivers. Erosion and deposition processes transport nutrients and organic matter downstream, with anthropogenic nutrient inputs increasing in lower reaches. Rivers draining peatlands are tannin-rich, reducing light penetration, increasing acidity, and supporting microbial activity, which lowers oxygen levels and biotic diversity but may foster high endemism.\n\nBiotic diversity is concentrated in the benthos and increases in larger rivers due to greater resource availability and niche diversity. Trophic webs include detritivores, predatory macroinvertebrates, fish, waterbirds, reptiles, and mammals. Species traits align with flow regimes and resource availability, such as suspension feeding in high flows, cold tolerance in freeze-thaw streams, and desiccation tolerance in episodic rivers.\n\nGeographically, rivers span diverse terrains, from uplands to lowlands, and are influenced by gradients, catchment characteristics, and land use. They interact with adjacent landforms, exchanging nutrients and organic matter. These ecosystems are dynamic and shaped by climate, hydrology, and geomorphology, supporting complex ecological communities adapted to varying environmental conditions."
+      },
+      "zh": {
+        "name": "F1: 河流和溪流生物群系",
+        "description": "河流和溪流是流水生态系统，其特征是单向水流、线性结构以及与周围景观的强烈相互作用。它们起源于高地或泉水，向三角洲、河口或湖泊流动，汇集由分水岭分隔的集水区。流量模式因溪流等级、降雨量和区域气候而异，从常年流动到季节性或间歇性流动不等。溪流的坡度影响流速、湍流、基质结构和栖息地的多样性。干旱地区的河流可能多年干涸，而寒冷气候中的溪流在冬季结冰，限制了生产力和生物体的活动。\n\n河流的生产力在下游增加，由上游河岸区输入的异养有机物（如有机物质）和较大、流速较慢的河流中的自养能量（如生物膜、浮游植物）驱动。侵蚀和沉积过程将养分和有机物质输送到下游，而人类活动导致的养分输入在下游增加。流经泥炭地的河流富含单宁酸，减少了光穿透力，增加了酸性，促进了微生物活动，从而降低了氧气水平和生物多样性，但可能促进高特有性。\n\n生物多样性集中在底栖生物中，并随着河流规模的增大而增加，因为资源可用性和生态位多样性更高。食物网包括食碎屑动物、捕食性大型无脊椎动物、鱼类、水鸟、爬行动物和哺乳动物。物种特性与流量模式和资源可用性相适应，例如在高流量中进行悬浮摄食、在冻融溪流中耐寒以及在间歇性河流中耐干旱。\n\n地理上，河流跨越从高地到低地的多样地形，并受到坡度、集水区特性和土地利用的影响。它们与相邻地形相互作用，交换养分和有机物质。这些生态系统是动态的，由气候、水文和地貌塑造，支持适应多变环境条件的复杂生态群落。"
+      },
+      "ja": {
+        "name": "F1: 河川および渓流バイオーム",
+        "description": "河川や小川は、流水が一方向に流れること、線状の構造、そして周囲の景観との強い相互作用によって特徴づけられる流水生態系です。それらは高地や湧水から始まり、三角州、河口、湖へと流れ、流域によって分かれた集水域を排水します。流れの特性は、河川の階級、降雨量、地域の気候によって異なり、常流から季節的または断続的な流れまで幅広く存在します。河川の勾配は流速、乱流、基質構造、そして生息地の多様性に影響を与えます。乾燥地帯の河川は数年間乾燥したままになることがあり、寒冷地の小川は冬に凍結し、生産性や生物の移動を制限します。\n\n生産性は下流で増加し、高地では河岸帯からの有機物（外来性入力）によって、より大きく流れの遅い河川では生物膜や植物プランクトン（内生性エネルギー）によって促進されます。侵食と堆積のプロセスは栄養素や有機物を下流へ運び、人為的な栄養素の入力は下流域で増加します。泥炭地を排水する河川はタンニンが豊富で、光の透過を減少させ、酸性度を高め、微生物活動を促進します。これにより酸素濃度や生物多様性が低下する一方で、高い固有性を促進する可能性があります。\n\n生物多様性は底生生物に集中しており、資源の利用可能性や生息地の多様性が増加するため、大きな河川で増加します。栄養網には腐食食者、捕食性の大型無脊椎動物、魚類、水鳥、爬虫類、哺乳類が含まれます。種の特性は流れの特性や資源の利用可能性に適応しており、高流量での懸濁物摂食、凍結と融解の小川での耐寒性、断続的な河川での乾燥耐性などが挙げられます。\n\n地理的には、河川は高地から低地まで多様な地形を横断し、勾配、流域の特性、土地利用の影響を受けます。それらは隣接する地形と相互作用し、栄養素や有機物を交換します。これらの生態系は動的であり、気候、水文学、地形学によって形成され、多様な環境条件に適応した複雑な生態系コミュニティを支えています。"
+      }
+    }
+  },
+  "F2": {
+    "code": "F2",
+    "url": "https://global-ecosystems.org/explore/biomes/F2",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F2_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_2_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F2_18.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_2_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F2_19.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_2_3.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F2_20.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_2_4.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F2_21.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_2_5.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F2_22.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_2_6.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F2_23.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_2_7.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F2_24.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_2_8.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F2_25.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_2_9.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F2_26.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_2_10.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F2_27.jpg"
+      }
+    ],
+    "image_count": 11,
+    "i18n": {
+      "en": {
+        "name": "F2Lakes biome",
+        "description": "The Lakes biome encompasses lentic ecosystems characterized by still waters, varying in size, depth, salinity, and connectivity to other aquatic systems. These ecosystems are globally distributed, spanning diverse climatic gradients that influence water regimes, temperature, and seasonal freeze-thaw cycles. Water regimes range from permanent lakes to seasonal or episodic systems, with some lakes buffered from climatic influences by groundwater, geomorphology, and substrate, as seen in artesian springs, oases, and geothermal wetlands. Substrate composition affects nutrient availability and salinity, which can fluctuate with mixing and water levels. Deeper lakes often exhibit stratification, creating gradients in temperature, oxygen, and nutrient availability, with the deepest zones being aphotic.\n\nThe biome supports a variety of organisms, including phytoplankton, periphyton, and macrophytes (submerged, floating, and emergent plants), which contribute to primary productivity. Morphological adaptations in species are shaped by environmental conditions; for example, freeze-thaw lakes favor cold-tolerant species with seasonal dormancy, while ephemeral lakes host organisms with desiccation tolerance and dormant life stages. Salt lakes, despite their high productivity, often have simplified trophic structures dominated by a few highly abundant species. Invertebrate detritivores play a key role in nutrient cycling, supporting macroinvertebrates, fish, waterbirds, reptiles, and mammals.\n\nEcological distribution is influenced by lake size and depth. Larger lakes tend to have more complex trophic webs due to increased resource availability, while small shallow lakes exhibit greater habitat heterogeneity and light penetration, fostering benthic macrophyte growth and associated biodiversity. Related terrain includes catchments, artesian springs, geothermal wetlands, and oases, with geomorphology and substrate playing critical roles in shaping ecosystem functions."
+      },
+      "zh": {
+        "name": "F2: 湖泊生物群系",
+        "description": "湖泊生物群系包括以静止水体为特征的静水生态系统，其大小、深度、盐度以及与其他水生系统的连通性各不相同。这些生态系统分布于全球，跨越不同的气候梯度，这些梯度影响水体状况、温度以及季节性冻融循环。水体状况从永久湖泊到季节性或偶发性系统不等，有些湖泊因地下水、地貌和基质的影响而免受气候变化的影响，例如自流泉、绿洲和地热湿地。基质组成影响营养物质的可用性和盐度，盐度可能随水体混合和水位变化而波动。较深的湖泊通常表现出分层现象，形成温度、氧气和营养物质可用性的梯度，最深的区域为无光区。\n\n该生物群系支持多种生物，包括浮游植物、附着藻类和大型水生植物（沉水植物、浮水植物和挺水植物），这些植物对初级生产力做出贡献。物种的形态适应由环境条件塑造，例如，冻融湖泊适合耐寒物种及季节性休眠，而短暂湖泊则支持具有耐干旱能力和休眠生命阶段的生物。盐湖虽然生产力高，但通常具有简化的营养结构，由少数数量极多的物种主导。无脊椎动物碎屑食者在养分循环中发挥关键作用，支持大型无脊椎动物、鱼类、水鸟、爬行动物和哺乳动物。\n\n生态分布受湖泊大小和深度影响。较大的湖泊由于资源可用性增加，往往具有更复杂的营养网，而小型浅湖则表现出更大的栖息地异质性和光穿透性，促进底栖大型水生植物的生长及相关生物多样性。相关地形包括集水区、自流泉、地热湿地和绿洲，地貌和基质在塑造生态系统功能方面起着关键作用。"
+      },
+      "ja": {
+        "name": "F2: 湖沼バイオーム",
+        "description": "湖沼バイオームは、静水で特徴付けられる止水生態系を包含し、その規模、深さ、塩分濃度、他の水系との接続性が異なります。これらの生態系は世界中に分布しており、水の状態、温度、季節的な凍結と融解のサイクルに影響を与える多様な気候勾配をまたいでいます。水の状態は、恒久的な湖から季節的または断続的なシステムまで多岐にわたり、一部の湖は地下水、地形学、基質によって気候の影響から緩衝されています。これには、湧水、オアシス、地熱湿地が含まれます。基質の組成は栄養素の利用可能性や塩分濃度に影響を与え、混合や水位の変動によって変化することがあります。深い湖ではしばしば成層が見られ、温度、酸素、栄養素の利用可能性に勾配を生じさせ、最深部は無光層となります。\n\nこのバイオームは、植物プランクトン、付着藻類、そして水生植物（沈水植物、浮葉植物、抽水植物）を含む多様な生物を支え、一次生産性に寄与しています。種の形態的適応は環境条件によって形成されます。例えば、凍結と融解を繰り返す湖では、寒冷耐性を持ち季節的休眠を行う種が好まれます。一方、短命の湖では乾燥耐性と休眠期を持つ生物が生息します。塩湖は高い生産性を持つ一方で、少数の非常に豊富な種によって支配される単純化された栄養構造を持つことが多いです。無脊椎動物の腐食食者は栄養循環において重要な役割を果たし、これにより大型無脊椎動物、魚類、水鳥、爬虫類、哺乳類を支えています。\n\n生態学的分布は湖の規模と深さによって影響を受けます。大きな湖は資源の利用可能性が増加するため、より複雑な栄養網を持つ傾向があります。一方、小さく浅い湖はより高い生息地の多様性と光の浸透を示し、底生水生植物の成長とそれに関連する生物多様性を促進します。関連する地形には流域、湧水、地熱湿地、オアシスが含まれ、地形学と基質が生態系機能の形成において重要な役割を果たします。"
+      }
+    }
+  },
+  "F3": {
+    "code": "F3",
+    "url": "https://global-ecosystems.org/explore/biomes/F3",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_3.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F3_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_3_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F3_18.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_3_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F3_19.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_3_3.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F3_20.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_3_4.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F3_21.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/f_3_5.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_F3_22.jpg"
+      }
+    ],
+    "image_count": 6,
+    "i18n": {
+      "en": {
+        "name": "F3Artificial wetlands biome",
+        "description": "The Artificial wetlands biome consists of human-engineered water systems designed for storage, treatment, or specific uses such as agriculture, aquaculture, or recreation. These ecosystems are globally distributed, predominantly in humid and subhumid tropical and temperate regions associated with rural and urban developments. They typically feature standing water, except for canals and drains, and their energy, water, and nutrients are primarily derived from external sources such as runoff, groundwater, or deliberate management. Internal energy production, such as algae and macrophyte growth, can also play a role in some systems.\n\nWater chemistry varies significantly depending on use, ranging from oligotrophic conditions in undisturbed reservoirs to eutrophic or toxic environments in wastewater ponds. Artificial wetlands are generally more stable over time and spatially uniform compared to natural wetlands, often supporting reduced biodiversity and simpler trophic structures. However, they can serve as critical refuges for native species in degraded landscapes, including organisms that no longer inhabit natural ecosystems, alongside opportunistic colonizers.\n\nOrganisms in artificial wetlands vary with water depth, temperature, and substrate. The simplest systems may only support microbial life, while more complex wetlands host submerged or emergent plant communities. These plants create habitats for diverse fauna, including invertebrates, fish, waterbirds, amphibians, reptiles, and occasionally amphibious mammals. Typical plant species exhibit adaptations such as submerged or emergent growth forms to thrive in aquatic environments.\n\nArtificial wetlands are commonly found in areas with modified terrain, including reservoirs, ponds, canals, ditches, and rice paddies. These systems often integrate with surrounding landscapes, providing ecological functions in heavily transformed regions."
+      },
+      "zh": {
+        "name": "F3: 人工湿地生物群系",
+        "description": "人工湿地生物群系由人类设计的水体系统组成，旨在用于储存、处理或特定用途，例如农业、水产养殖或娱乐活动。这些生态系统分布于全球，主要集中在与农村和城市发展相关的潮湿和亚潮湿热带及温带地区。它们通常具有静止水体，除了运河和排水渠外，其能量、水和养分主要来源于外部，如径流、地下水或人为管理。一些系统内部的能量生产，例如藻类和大型植物的生长，也可能发挥作用。\n\n水化学性质因用途而异，从未受干扰的水库中的贫营养状态到废水池中的富营养或有毒环境。与自然湿地相比，人工湿地通常在时间上更稳定且空间上更均匀，通常支持较低的生物多样性和更简单的营养结构。然而，它们可以作为退化景观中本地物种的重要庇护所，包括那些不再栖息于自然生态系统的生物，以及机会性入侵者。\n\n人工湿地中的生物种类因水深、温度和基质而异。最简单的系统可能仅支持微生物生命，而更复杂的湿地则拥有沉水或挺水植物群落。这些植物为多样化的动物群体创造了栖息地，包括无脊椎动物、鱼类、水鸟、两栖动物、爬行动物以及偶尔出现的两栖哺乳动物。典型的植物种类表现出适应性，例如沉水或挺水的生长形态，以适应水生环境。\n\n人工湿地通常分布于地形改造区域，包括水库、池塘、运河、沟渠和稻田。这些系统通常与周边景观整合，为高度改造的地区提供生态功能。"
+      },
+      "ja": {
+        "name": "F3: 人工湿地バイオーム",
+        "description": "人工湿地のバイオームは、貯水、処理、または農業、水産養殖、レクリエーションなどの特定の用途のために設計された人為的な水系で構成されています。これらの生態系は世界中に分布しており、主に湿潤および亜湿潤の熱帯や温帯地域で、農村や都市開発と関連しています。通常、立ち水が特徴ですが、運河や排水路は例外です。これらの湿地のエネルギー、水、栄養分は主に流出水、地下水、または意図的な管理などの外部から供給されます。一部のシステムでは、藻類や大型水生植物の成長などの内部エネルギー生産も役割を果たすことがあります。\n\n水質は用途によって大きく異なり、未開発の貯水池では貧栄養状態から、廃水池では富栄養化や有毒環境に至るまで多様です。人工湿地は自然湿地と比較して時間的に安定しており、空間的にも均一であることが多く、生物多様性が減少し、栄養段階構造が単純化する傾向があります。しかし、これらは劣化した景観における在来種の重要な避難所として機能することがあり、自然生態系に生息しなくなった生物や機会的な移入種を含む生物を支えることがあります。\n\n人工湿地の生物は水深、温度、基質によって異なります。最も単純なシステムでは微生物のみが存在する場合がありますが、より複雑な湿地では水中植物や抽水植物の群落が生息しています。これらの植物は多様な動物相、例えば無脊椎動物、魚類、水鳥、両生類、爬虫類、時には半水生哺乳類の生息地を形成します。典型的な植物種は、水中または抽水の成長形態などの適応を示し、水環境で繁栄します。\n\n人工湿地は、貯水池、池、運河、溝、田んぼなど、地形が改変された地域に一般的に見られます。これらのシステムは周囲の景観と統合されることが多く、大きく変容した地域で生態学的機能を提供しています。"
+      }
+    }
+  },
+  "FM1": {
+    "code": "FM1",
+    "url": "https://global-ecosystems.org/explore/biomes/FM1",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/fm_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_FM1_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/fm_1_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_FM1_19.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/fm_1_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_FM1_20.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/fm_1_3.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_FM1_21.jpg"
+      }
+    ],
+    "image_count": 4,
+    "i18n": {
+      "en": {
+        "name": "FM1Semi-confined transitional waters biome",
+        "description": "The Transitional waters biome encompasses coastal inlets influenced by both freshwater from terrestrial catchments and marine water from tides, waves, and currents. These ecosystems include deep-water fjords, primarily found in high latitudes, as well as estuaries, bays, and lagoons distributed globally along coastlines. Environmental characteristics are shaped by gradients in water chemistry, salinity, depth, temperature, and exposure to marine or freshwater inputs, which vary seasonally and inter-annually depending on climate, geomorphology, and catchment size. Some inlets maintain permanent ocean connectivity, while others experience intermittent connections, regulated by stream flow and wave activity.\n\nSalinity gradients, both horizontal and vertical, are key to structuring biotic communities, with species adapted to specific salinity niches. Primary production is driven by aquatic macrophytes, phytoplankton, macroalgae, and diatoms, supplemented by energy inputs from surrounding shorelines, freshwater streams, and marine incursions. This high energy availability supports diverse and complex trophic networks, including macroinvertebrates, fish, waterbirds, seabirds, mammals, and reptiles. Many transitional waters serve as critical fish nurseries and bird breeding sites.\n\nEcological distribution spans coastlines worldwide, with geomorphic features such as fjords, estuaries, and lagoons varying in size, depth, and connectivity. These ecosystems are often associated with dynamic terrain and landforms shaped by tidal and wave activity, including shallow inlets, sedimentary shores, and rocky coastlines. The interplay of freshwater and marine influences creates a unique and productive environment essential for biodiversity and ecological function."
+      },
+      "zh": {
+        "name": "FM1: 半封闭过渡水域生物群系",
+        "description": "过渡水域生物群系包括受陆地集水区淡水和潮汐、波浪及洋流海水共同影响的沿海水域。这些生态系统包括主要分布于高纬度地区的深水峡湾，以及全球沿海分布的河口、海湾和泻湖。环境特征由水化学、盐度、深度、温度以及海水或淡水输入的梯度所决定，这些特征因气候、地貌和集水区大小的变化而在季节性和年度间有所不同。一些水域与海洋保持永久连接，而另一些则经历间歇性连接，由河流流量和波浪活动调节。\n\n盐度梯度，无论是水平还是垂直方向，是构建生物群落的关键因素，物种适应于特定的盐度生态位。初级生产由水生大型植物、浮游植物、大型藻类和硅藻驱动，并由周围岸线、淡水河流和海洋输入的能量补充。这种高能量的可用性支持了多样且复杂的营养网络，包括大型无脊椎动物、鱼类、水鸟、海鸟、哺乳动物和爬行动物。许多过渡水域是重要的鱼类育苗场和鸟类繁殖地。\n\n生态分布遍及全球海岸线，地貌特征如峡湾、河口和泻湖在大小、深度和连接性上有所不同。这些生态系统通常与受潮汐和波浪活动塑造的动态地形和地貌相关，包括浅水湾、沉积性海岸和岩石海岸。淡水和海洋影响的相互作用创造了独特且富有生产力的环境，对生物多样性和生态功能至关重要。"
+      },
+      "ja": {
+        "name": "FM1: 半閉鎖的遷移水域バイオーム",
+        "description": "移行水域バイオームは、陸域集水域からの淡水と潮汐、波、海流による海水の影響を受ける沿岸の入り江を含みます。これらの生態系には、高緯度地域に主に見られる深水フィヨルドや、世界中の海岸線に分布する河口、湾、ラグーンが含まれます。環境特性は、水化学、塩分濃度、水深、温度、海水または淡水の流入への曝露の勾配によって形成され、気候、地形学、集水域の規模に応じて季節的および年次的に変化します。一部の入り江は恒久的に海洋と接続しているのに対し、他の入り江は流量や波の活動によって調整される断続的な接続を経験します。\n\n塩分濃度の水平および垂直の勾配は、生物群集の構造化において重要であり、特定の塩分ニッチに適応した種が存在します。一次生産は、水生大型植物、植物プランクトン、大型藻類、珪藻によって駆動され、周囲の海岸線、淡水流、海水流入からのエネルギー供給によって補完されます。この高いエネルギー利用可能性は、多様で複雑な栄養ネットワークを支え、そこには大型無脊椎動物、魚類、水鳥、海鳥、哺乳類、爬虫類が含まれます。多くの移行水域は、重要な魚の保育場や鳥の繁殖地として機能しています。\n\n生態学的分布は世界中の海岸線に広がっており、フィヨルド、河口、ラグーンなどの地形学的特徴は、規模、水深、接続性が異なります。これらの生態系は、浅い入り江、堆積性の海岸、岩の多い海岸線など、潮汐や波の活動によって形成された動的な地形や地形としばしば関連しています。淡水と海水の影響の相互作用は、生物多様性と生態学的機能に不可欠な独特で生産的な環境を作り出します。"
+      }
+    }
+  },
+  "M1": {
+    "code": "M1",
+    "url": "https://global-ecosystems.org/explore/biomes/M1",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M1_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_1_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M1_18.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_1_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M1_19.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_1_3.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M1_20.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_1_4.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M1_21.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_1_5.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M1_22.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_1_6.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M1_23.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_1_7.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M1_24.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_1_8.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M1_25.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_1_9.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M1_26.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_1_10.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M1_27.jpg"
+      }
+    ],
+    "image_count": 11,
+    "i18n": {
+      "en": {
+        "name": "M1Marine shelf biome",
+        "description": "The Marine shelf biome is a globally distributed shallow water ecosystem located between the shoreline and deep sea-floor biomes. It is characterized by benthic productivity and includes both biogenic substrates (e.g., seagrass meadows, kelp forests, oyster beds, and coral reefs) and minerogenic substrates (e.g., rocky reefs, sandy bottoms, and muddy bottoms). Key environmental factors shaping this biome include light availability, nutrient levels, temperature, salinity, and kinetic wave energy. Light availability is influenced by depth, water clarity (turbidity), and nutrient input, which are critical for photosynthetic organisms and symbiotic relationships. Nutrients are supplied by upwelling currents and fluvial systems, supporting high productivity.\n\nThe biome's structure is also determined by substrate type. Hard substrates allow sessile organisms to dominate, forming biogenic habitats that extend into the water column, while soft substrates support different communities. Wave energy and, in polar regions, ice scour further shape the biome, although habitat structures formed by sessile organisms can mitigate these forces, enabling persistence in marginal conditions. Temperature and salinity influence the distribution and composition of dominant habitat-forming species, while currents affect larval dispersal and resource flow.\n\nTypical organisms include macrophytes like seagrasses and kelp, as well as animals such as corals and oysters, which often form complex, habitat-structuring communities. These species exhibit adaptations to their substrate type and environmental conditions, such as anchoring structures for stability and symbiotic relationships for nutrient acquisition. The biome's energy dynamics range from autotrophic (dominated by primary producers) to heterotrophic (dominated by consumers), depending on the benthic community composition and resource availability.\n\nGeographically, the marine shelf biome spans coastal regions worldwide, influenced by local terrain and landforms such as continental shelves, rocky coastlines, and estuaries. It is a dynamic ecosystem shaped by interactions between physical forces, nutrient cycles, and biological communities."
+      },
+      "zh": {
+        "name": "M1: 海洋大陆架生物群系",
+        "description": "海洋陆架生物群系是一个分布于全球的浅水生态系统，位于海岸线与深海海底生物群系之间。其特点是底栖生产力，包括生物基质（如海草草甸、巨藻森林、牡蛎床和珊瑚礁）和矿物基质（如岩礁、沙质底部和泥质底部）。塑造该生物群系的关键环境因素包括光照可用性、营养水平、温度、盐度和波浪动能。光照可用性受深度、水体清澈度（浊度）和营养输入的影响，这对光合作用生物和共生关系至关重要。营养物质通过上升流和河流系统提供，支持高生产力。\n\n该生物群系的结构也由基质类型决定。硬质基质允许固着生物占主导地位，形成延伸至水柱的生物栖息地，而软质基质支持不同的群落。波浪能量以及极地地区的冰刮进一步塑造了该生物群系，尽管固着生物形成的栖息地结构可以缓解这些力量，使其在边缘条件下得以持续。温度和盐度影响着主要栖息地形成物种的分布和组成，而洋流则影响幼体的扩散和资源流动。\n\n典型的生物包括海草和巨藻等大型植物，以及珊瑚和牡蛎等动物，这些生物通常形成复杂的、具有栖息地结构的群落。这些物种表现出对基质类型和环境条件的适应，例如用于稳定的锚固结构和用于营养获取的共生关系。该生物群系的能量动态范围从以初级生产者为主的自养型到以消费者为主的异养型，具体取决于底栖群落的组成和资源的可用性。\n\n地理上，海洋陆架生物群系分布于全球沿海地区，受大陆架、岩石海岸线和河口等局部地形和地貌的影响。它是一个动态的生态系统，由物理力量、营养循环和生物群落之间的相互作用共同塑造。"
+      },
+      "ja": {
+        "name": "M1: 海洋大陸棚バイオーム",
+        "description": "海洋棚生物群系は、海岸線と深海底生物群系の間に位置する、世界的に分布する浅海域の生態系です。この生物群系は底生生産性によって特徴づけられ、生物起源の基質（例：アマモ場、コンブ林、カキ床、サンゴ礁）と鉱物起源の基質（例：岩礁、砂底、泥底）を含みます。この生物群系を形成する主要な環境要因には、光の利用可能性、栄養素の濃度、温度、塩分濃度、波動エネルギーがあります。光の利用可能性は、水深、水の透明度（濁度）、栄養素の流入によって影響を受け、光合成生物や共生関係にとって重要です。栄養素は湧昇流や河川システムによって供給され、高い生産性を支えています。\n\nこの生物群系の構造は基質の種類によっても決定されます。硬い基質は固着性生物が優勢となり、水柱内にまで広がる生物起源の生息地を形成します。一方、柔らかい基質は異なるコミュニティを支えます。波動エネルギーや、極域では氷の削り取りもこの生物群系を形成しますが、固着性生物によって形成された生息地構造はこれらの力を緩和し、限界条件下での持続を可能にします。温度と塩分濃度は、優勢な生息地形成種の分布と構成に影響を与え、海流は幼生の分散や資源の流れに影響を与えます。\n\n典型的な生物には、アマモやコンブのような大型植物、サンゴやカキのような動物が含まれ、これらはしばしば複雑な生息地構造を形成するコミュニティを構成します。これらの種は、基質の種類や環境条件に適応しており、安定性を保つための固定構造や、栄養素を獲得するための共生関係を示します。この生物群系のエネルギー動態は、底生コミュニティの構成や資源の利用可能性に応じて、独立栄養型（一次生産者が支配）から従属栄養型（消費者が支配）まで幅広く変化します。\n\n地理的には、海洋棚生物群系は世界中の沿岸地域に広がり、大陸棚、岩礁海岸、河口などの地形や地形的特徴によって影響を受けます。この生態系は、物理的な力、栄養素の循環、生物群集の相互作用によって形作られる動的な生態系です。"
+      }
+    }
+  },
+  "M2": {
+    "code": "M2",
+    "url": "https://global-ecosystems.org/explore/biomes/M2",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M2_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_2_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M2_18.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_2_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M2_19.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_2_3.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M2_20.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_2_4.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M2_21.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_2_5.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M2_22.jpg"
+      }
+    ],
+    "image_count": 6,
+    "i18n": {
+      "en": {
+        "name": "M2Pelagic ocean waters biome",
+        "description": "The Pelagic ocean biome is the largest ecosystem on Earth, encompassing the open-ocean water column across all latitudes. Environmental characteristics are defined by a vertical gradient in light, temperature, nutrients, and organic carbon availability. The uppermost euphotic (epipelagic) zone supports primary production due to sufficient light, while deeper layers, such as the mesopelagic and bathypelagic zones, rely on organic carbon flux from above. This flux diminishes with depth, leading to low productivity and biodiversity in the deepest aphotic zones. Nutrient availability, including nitrogen, phosphorus, iron, and silica, influences productivity, with latitudinal variation driven by temperature, water mixing, and light conditions.\n\nOrganisms exhibit depth-specific adaptations to the light environment. In the epipelagic zone, primary producers like phytoplankton dominate, supporting higher trophic levels. Mesopelagic species often display bioluminescence for communication, predation, or camouflage, while organisms in deeper aphotic zones develop enhanced sensory organs to navigate darkness. Migration is a key ecological feature, including diel vertical migrations between productive surface layers and deeper refuge zones, as well as horizontal migrations for feeding and breeding.\n\nThe Pelagic biome spans all oceans globally, with ecological distribution influenced by water-mass boundaries, temperature gradients, and nutrient availability. It is characterized by vast, open water expanses rather than distinct terrain or landforms, though depth zones create stratified ecological niches."
+      },
+      "zh": {
+        "name": "M2: 远洋水域生物群系",
+        "description": "远洋生物群系是地球上最大的生态系统，覆盖了所有纬度的开阔海洋水柱。其环境特征由光照、温度、营养物质和有机碳可用性在垂直方向上的梯度所定义。最上层的透光（上层远洋）区域由于光照充足而支持初级生产，而较深的层如中层远洋和深层远洋则依赖于来自上层的有机碳通量。这种通量随着深度的增加而减少，导致最深的无光区生产力和生物多样性较低。营养物质的可用性，包括氮、磷、铁和硅，影响生产力，其纬度变化受温度、水体混合和光照条件驱动。\n\n生物体表现出对光环境的深度特异性适应。在上层远洋区域，浮游植物等初级生产者占主导地位，支持更高的营养级。中层远洋物种通常表现出生物发光，用于交流、捕食或伪装，而深层无光区的生物则发展出增强的感官器官以适应黑暗。迁徙是一个关键的生态特征，包括日周期性垂直迁徙，穿梭于生产力较高的表层和较深的避难区之间，以及为了觅食和繁殖进行的水平迁徙。\n\n远洋生物群系遍布全球所有海洋，其生态分布受水团边界、温度梯度和营养物质可用性影响。其特点是广阔的开阔水域，而非明显的地形或陆地形态，但深度区域形成了分层的生态位。"
+      },
+      "ja": {
+        "name": "M2: 外洋水域バイオーム",
+        "description": "遠洋海洋バイオームは地球上で最大の生態系であり、全ての緯度にわたる外洋の水柱を包含しています。環境特性は、光、温度、栄養素、有機炭素の利用可能性における垂直的な勾配によって定義されます。最上層の光合成可能層（表層遠洋帯）は十分な光があるため一次生産を支えますが、より深い層、例えば中層遠洋帯や深層遠洋帯は上層からの有機炭素の流入に依存しています。この流入は深度とともに減少し、最深部の無光帯では生産性と生物多様性が低くなります。窒素、リン、鉄、シリカを含む栄養素の利用可能性は生産性に影響を与え、温度、水の混合、光条件による緯度ごとの変化が見られます。\n\n生物は光環境に応じた深度特有の適応を示します。表層遠洋帯では植物プランクトンのような一次生産者が優勢であり、高次栄養段階を支えています。中層遠洋帯の種はしばしばコミュニケーション、捕食、または擬態のために生物発光を示します。一方、より深い無光帯の生物は暗闇を移動するために感覚器官を発達させています。移動は重要な生態学的特徴であり、生産性の高い表層と深層の避難層間の昼夜垂直移動や、採餌や繁殖のための水平移動が含まれます。\n\n遠洋バイオームは世界中の全ての海洋に広がり、水塊の境界、温度勾配、栄養素の利用可能性によって生態学的分布が影響を受けます。このバイオームは特定の地形や陸地ではなく、広大な外洋の水域によって特徴付けられていますが、深度による層構造が分化した生態学的ニッチを形成しています。"
+      }
+    }
+  },
+  "M3": {
+    "code": "M3",
+    "url": "https://global-ecosystems.org/explore/biomes/M3",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_3.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M3_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_3_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M3_18.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_3_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M3_19.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_3_3.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M3_20.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_3_4.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M3_21.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_3_5.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M3_22.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_3_6.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M3_23.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_3_7.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M3_24.jpg"
+      }
+    ],
+    "image_count": 8,
+    "i18n": {
+      "en": {
+        "name": "M3Deep sea floors biome",
+        "description": "The deep-sea floor ecosystem encompasses the oceanic benthos below approximately 250 meters, extending to nearly 11 kilometers in the Mariana Trench. This environment is characterized by the absence of light for photosynthesis, low nutrient availability, high hydrostatic pressure increasing by 1 atmosphere per 10 meters of depth, and generally cold temperatures. Oxygen is typically sufficient due to thermohaline circulation, except in oxygen-minimum zones in specific regions like the eastern Pacific and the Arabian Sea. Currents, geomorphology, and substrate type significantly influence ecosystem dynamics.\n\nOrganisms in the deep-sea floor are adapted to extreme conditions, including darkness, high pressure, and nutrient scarcity. Typical biota includes meio-fauna, macro-fauna, and abundant microbes, with high biodiversity in most areas. Soft sediment regions, such as abyssal plains, support burrowing detritivores and predators, while hard substrates host sessile suspension feeders. Chemosynthetically-based ecosystems, such as hydrothermal vents and cold seeps, are exceptions, relying on chemoautotrophic microorganisms that utilize reduced compounds like hydrogen sulfide and methane as energy sources. These ecosystems exhibit high biomass, low diversity, and high endemism.\n\nThe geographic range of the deep-sea floor spans globally, from the bathyal zone (200–1,000 m) to the hadal zone in ocean trenches. Geomorphological features, including marine canyons, seamounts, and trenches, create resource-rich hotspots by influencing currents and nutrient flux. The terrain includes extensive soft sediments on abyssal plains and hard substrates in localized areas. Overall, the deep-sea floor is a highly diverse and specialized ecosystem shaped by extreme environmental conditions and unique energy sources."
+      },
+      "zh": {
+        "name": "M3: 深海海底生物群系",
+        "description": "深海底生态系统包括约250米以下的海洋底栖区，延伸至马里亚纳海沟近11公里深处。该环境的特点是缺乏光线无法进行光合作用、营养物质匮乏、每10米深度增加1个大气压的高静水压力以及通常较低的温度。由于温盐环流，氧气通常充足，但在某些特定区域如东太平洋和阿拉伯海的氧气最低区则有所不足。洋流、地貌和基质类型对生态系统动态有显著影响。\n\n深海底的生物适应了极端条件，包括黑暗、高压力和营养稀缺。典型生物包括微型动物、大型动物以及丰富的微生物，大多数区域具有高生物多样性。软沉积物区域如深海平原支持掘穴的食腐动物和捕食者，而硬基质则栖息着固着的悬浮摄食者。以化学合成为基础的生态系统，如热液喷口和冷渗区，是例外，它们依赖化能自养微生物利用硫化氢和甲烷等还原化合物作为能量来源。这些生态系统表现出高生物量、低多样性和高特有性。\n\n深海底的地理范围遍布全球，从半深海区（200–1,000米）到海沟中的深渊区。地貌特征包括海底峡谷、海底山和海沟，通过影响洋流和营养物质流动创造了资源丰富的热点。地形包括深海平原上的广泛软沉积物以及局部区域的硬基质。总体而言，深海底是一个高度多样化且专业化的生态系统，由极端环境条件和独特的能量来源所塑造。"
+      },
+      "ja": {
+        "name": "M3: 深海底バイオーム",
+        "description": "深海底の生態系は、約250メートル以深の海洋底部からマリアナ海溝の約11キロメートルに至るまでを含みます。この環境は、光合成に必要な光の欠如、低い栄養素の供給、高い静水圧（深度10メートルごとに1気圧増加）、および一般的に低温で特徴付けられます。熱塩循環により酸素は通常十分に供給されますが、東太平洋やアラビア海などの特定の地域に存在する酸素極小層では例外があります。海流、地形、基質の種類が生態系の動態に大きな影響を与えます。\n\n深海底の生物は、暗闇、高圧、栄養不足といった極限環境に適応しています。典型的な生物群には、メイオファウナ、マクロファウナ、そして豊富な微生物が含まれ、多くの地域で高い生物多様性が見られます。軟質堆積物が広がる深海平原では、デトリタスを掘り進む生物や捕食者が生息し、硬質基質では固着性の懸濁物食者が生息しています。化学合成に基づく生態系、例えば熱水噴出孔や冷水湧出帯は例外であり、水素硫化物やメタンなどの還元化合物をエネルギー源とする化学合成独立栄養微生物に依存しています。これらの生態系は、高い生物量、低い多様性、そして高い固有性を示します。\n\n深海底の地理的範囲は、バチアル帯（200～1,000メートル）から海溝のハダル帯に至るまで、地球規模で広がっています。海底峡谷、海山、海溝などの地形的特徴は、海流や栄養素の流れに影響を与え、資源が豊富なホットスポットを形成します。地形には、深海平原の広範な軟質堆積物や局所的な硬質基質が含まれます。全体として、深海底は極限環境と独自のエネルギー源によって形作られた、高度に多様で特殊化した生態系です。"
+      }
+    }
+  },
+  "M4": {
+    "code": "M4",
+    "url": "https://global-ecosystems.org/explore/biomes/M4",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_4.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M4_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_4_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M4_18.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/m_4_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_M4_19.jpg"
+      }
+    ],
+    "image_count": 3,
+    "i18n": {
+      "en": {
+        "name": "M4Anthropogenic marine biome",
+        "description": "Artificial marine structures, including shipwrecks, energy infrastructure, pipelines, rubble piles, and aquaculture installations, create unique ecosystems in the oceans. These structures are globally distributed, particularly in areas with high human activity or transit. They provide a hard, epibenthic substrate for sessile benthic organisms and a demersal or pelagic habitat for mobile species. The rugosity of these substrates enhances the diversity and biomass of biofouling communities.\n\nThe primary energy input to these ecosystems is allochthonous, delivered passively by ocean currents or actively through human activities, such as feeding in aquaculture. Local primary production by epibenthic and planktonic marine algae also contributes to the energy budget. Organic matter, including waste and decaying organisms from the epibenthic biota, supports microbial decomposers and invertebrate detritivores in surrounding sediments. These decomposers recycle nutrients and sustain the ecosystem's productivity.\n\nArtificial structures often attract larger pelagic predators due to increased prey availability or visual cues. The ecological distribution of these systems is closely tied to human activity, and their geographic range spans coastal and offshore regions worldwide. Terrain and landforms associated with these ecosystems include both shallow coastal zones and deeper offshore environments, depending on the type and placement of the structures. These artificial habitats represent a complex interplay of natural and anthropogenic processes, supporting diverse marine communities."
+      },
+      "zh": {
+        "name": "M4: 人为海洋生物群系",
+        "description": "人工海洋结构，包括沉船、能源基础设施、管道、碎石堆和水产养殖设施，在海洋中创造了独特的生态系统。这些结构分布于全球，特别是在人类活动或运输频繁的区域。它们为附着性底栖生物提供了坚硬的附着基底，并为移动物种提供了底栖或浮游栖息地。这些基底的粗糙度增强了附着生物群落的多样性和生物量。\n\n这些生态系统的主要能量输入是外源性的，通过洋流被动输送或通过人类活动主动提供，例如水产养殖中的投喂。附着性底栖生物和浮游海藻的局部初级生产也对能量预算有所贡献。包括附着生物群落中的废物和腐烂生物在内的有机物，为周围沉积物中的微生物分解者和无脊椎碎屑食者提供了支持。这些分解者循环利用营养物质并维持生态系统的生产力。\n\n人工结构通常因猎物数量增加或视觉线索吸引较大的浮游捕食者。这些系统的生态分布与人类活动密切相关，其地理范围覆盖全球沿海和离岸区域。与这些生态系统相关的地形和地貌包括浅海沿岸区域和更深的离岸环境，具体取决于结构的类型和位置。这些人工栖息地体现了自然过程与人为过程的复杂互动，支持着多样化的海洋群落。"
+      },
+      "ja": {
+        "name": "M4: 人為的海洋バイオーム",
+        "description": "人工海洋構造物には、沈没船、エネルギーインフラ、パイプライン、瓦礫の山、水産養殖施設などが含まれ、海洋に独自の生態系を形成しています。これらの構造物は、特に人間活動や移動が活発な地域で広く分布しています。それらは、固着性底生生物にとって硬い底質を提供し、移動性の種にとって底生または遠洋性の生息地を提供します。これらの基盤の粗さは、付着生物群集の多様性とバイオマスを増加させます。\n\nこれらの生態系への主なエネルギー供給は外来性であり、海流による受動的な輸送や水産養殖における給餌などの人間活動による能動的な供給によってもたらされます。底生およびプランクトン性の海藻による局所的な一次生産もエネルギー収支に寄与します。底生生物からの廃棄物や腐敗した有機物は、周囲の堆積物内の微生物分解者や無脊椎動物のデトリタス食者を支えます。これらの分解者は栄養素をリサイクルし、生態系の生産性を維持します。\n\n人工構造物は、獲物の増加や視覚的な手がかりにより、しばしばより大きな遠洋性捕食者を引き寄せます。これらのシステムの生態学的分布は人間活動と密接に関連しており、その地理的範囲は世界中の沿岸および沖合地域に広がっています。これらの生態系に関連する地形や地形には、構造物の種類や配置に応じて、浅い沿岸域とより深い沖合環境の両方が含まれます。これらの人工的な生息地は、自然と人為的なプロセスの複雑な相互作用を表しており、多様な海洋生物群集を支えています。"
+      }
+    }
+  },
+  "MFT1": {
+    "code": "MFT1",
+    "url": "https://global-ecosystems.org/explore/biomes/MFT1",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/mft_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_MFT1_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/mft_1_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_MFT1_20.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/mft_1_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_MFT1_21.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/mft_1_3.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_MFT1_22.jpg"
+      }
+    ],
+    "image_count": 4,
+    "i18n": {
+      "en": {
+        "name": "MFT1Brackish tidal biome",
+        "description": "The Brackish tidal systems biome is characterized by its location at the interface of terrestrial, freshwater, and marine environments, typically along prograding depositional shorelines. This ecosystem experiences variable influences from fluvial, marine, and terrestrial processes, creating steep gradients in salinity and tidal exposure. The climate and environmental conditions are shaped by tidal and wave energy, which are moderated by vegetation, promoting sediment deposition and habitat stability. Light availability and temperature are not explicitly described but are likely influenced by the coastal setting and tidal dynamics.\n\nVegetation in these systems includes flowering plants and algae, which serve as primary autochthonous energy sources. These plants exhibit morphological adaptations to tolerate brackish water and fluctuating salinity levels. They play a critical role in habitat engineering, supporting epifauna, epiflora, and juvenile fish nurseries. The biome also relies on allochthonous energy inputs from rivers, currents, and tides, which contribute to its high productivity and complex trophic webs. Mobile species, such as fish and birds, depend on these systems for critical life stages.\n\nEcologically, brackish tidal systems are globally distributed along depositional coastlines, where sediment is supplied by terrestrial sources and redistributed by fluvial and marine processes. These dynamics create patchy habitats that shift over time and space. The biome supports species turnover driven by physiological adaptations to salinity and tidal gradients, as well as competitive interactions and predation pressures.\n\nThe terrain associated with brackish tidal systems includes deltas, intertidal forests, and coastal saltmarshes, reflecting the varying dominance of fluvial, marine, and terrestrial influences. These landforms are integral to the biome's ecological functions, providing habitat complexity and facilitating sediment dynamics."
+      },
+      "zh": {
+        "name": "MFT1: 半咸潮汐生物群系",
+        "description": "盐沼潮汐系统生物群落的特点是位于陆地、淡水和海洋环境的交界处，通常沿着沉积岸线的推进区域分布。该生态系统受到河流、海洋和陆地过程的多样化影响，形成了陡峭的盐度和潮汐暴露梯度。气候和环境条件受到潮汐和波浪能量的影响，并通过植被的调节促进了沉积物的沉积和栖息地的稳定性。光照和温度虽然未被明确描述，但可能受到沿海环境和潮汐动态的影响。\n\n这些系统中的植被包括开花植物和藻类，它们是主要的自源性能量来源。这些植物表现出适应盐沼水和盐度波动的形态学特征。它们在栖息地构建中发挥关键作用，支持附生动物、附生植物以及幼鱼的育苗场。该生物群落还依赖河流、洋流和潮汐带来的异源性能量输入，这些能量输入促进了其高生产力和复杂的营养网。鱼类和鸟类等移动物种依赖这些系统完成关键的生命阶段。\n\n从生态学角度来看，盐沼潮汐系统在全球范围内分布于沉积性海岸线，沉积物由陆地来源提供并通过河流和海洋过程重新分布。这些动态过程创造了随时间和空间变化的斑块状栖息地。该生物群落支持由盐度和潮汐梯度的生理适应、竞争互动以及捕食压力驱动的物种更替。\n\n与盐沼潮汐系统相关的地形包括三角洲、潮间带森林和沿海盐沼，反映了河流、海洋和陆地影响的不同主导性。这些地貌是该生物群落生态功能的核心，为栖息地复杂性提供支持并促进沉积物动态。"
+      },
+      "ja": {
+        "name": "MFT1: 汽水潮汐バイオーム",
+        "description": "汽水性潮汐系バイオームは、陸域、淡水域、海洋環境の境界に位置し、通常は堆積性の海岸線に沿って形成されるのが特徴です。この生態系は、河川、海洋、陸域のプロセスからの多様な影響を受け、塩分濃度や潮汐露出に急激な勾配を生じさせます。気候や環境条件は、植生によって緩和される潮汐や波のエネルギーによって形成され、堆積物の堆積や生息地の安定性を促進します。光の利用可能性や温度については明確には記述されていませんが、沿岸環境や潮汐の動態によって影響を受けると考えられます。\n\nこの系統の植生には、開花植物や藻類が含まれ、これらは主要な自生エネルギー源として機能します。これらの植物は、汽水や塩分濃度の変動に耐える形態的適応を示し、生息地の形成に重要な役割を果たします。また、これらは底生動物、底生植物、幼魚の育成場を支える役割を担っています。このバイオームは、河川、海流、潮汐からの外来エネルギー入力にも依存しており、それが高い生産性と複雑な栄養網を生み出しています。魚類や鳥類などの移動性種は、重要な生活史段階においてこれらの系統に依存しています。\n\n生態学的には、汽水性潮汐系は、陸域から供給される堆積物が河川や海洋のプロセスによって再分配される堆積性海岸線に沿って世界的に分布しています。これらの動態は、時間と空間にわたって変化する斑状の生息地を形成します。このバイオームは、塩分濃度や潮汐勾配への生理的適応、競争的相互作用、捕食圧によって駆動される種の入れ替わりを支えています。\n\n汽水性潮汐系に関連する地形には、デルタ、潮間帯の森林、沿岸塩性湿地が含まれ、河川、海洋、陸域の影響の優勢が異なることを反映しています。これらの地形は、このバイオームの生態学的機能にとって不可欠であり、生息地の複雑性を提供し、堆積物の動態を促進します。"
+      }
+    }
+  },
+  "MT1": {
+    "code": "MT1",
+    "url": "https://global-ecosystems.org/explore/biomes/MT1",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/mt_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_MT1_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/mt_1_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_MT1_19.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/mt_1_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_MT1_20.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/mt_1_3.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_MT1_21.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/mt_1_4.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_MT1_22.jpg"
+      }
+    ],
+    "image_count": 5,
+    "i18n": {
+      "en": {
+        "name": "MT1Shorelines biome",
+        "description": "The Shoreline systems biome consists of intertidal abiogenic habitats located at the interface of land and sea, distributed across all latitudes where landmasses exist, from temperate to polar regions. Environmental characteristics are shaped by tides, waves, and substrate particle size, creating gradients in aerial exposure, desiccation, temperature stress, and physical disturbance. Productivity varies widely, influenced by substrate stability for macrophyte attachment, coastal upwelling, and nutrient input from terrestrial sediments. Systems with finer particles rely more on external energy sources from land and sea.\n\nBiotic communities are structured by tidal and wave dynamics, with organisms exhibiting adaptations to cope with desiccation during low tide and wave forces. Burrowing animals dominate in unconsolidated sediments, while macrophytes and filter feeders thrive on stable substrates. Biodiversity is high, with microscopic organisms forming the bulk of biomass in finer particle systems. Competition for space is a key ecological driver, particularly in rocky or stable substrates, while facilitative interactions, such as protection from physical stress, are significant across all particle sizes.\n\nGeographically, these systems occur globally along coastlines, with community structure varying horizontally from exposed headlands to sheltered bays due to wave action. Vertical gradients are determined by tidal exposure, affecting species distribution and stress tolerance. Terrain and landforms include rocky shores, sandy beaches, mudflats, and silty areas, each supporting distinct ecological communities shaped by substrate type and stability."
+      },
+      "zh": {
+        "name": "MT1: 海岸线生物群系",
+        "description": "海岸线系统生物群系由位于陆地与海洋交界处的潮间带非生物栖息地组成，分布于从温带到极地地区的所有大陆存在的纬度范围内。环境特征受潮汐、波浪和基质颗粒大小的影响，形成了空气暴露、干燥、温度压力和物理干扰的梯度。生产力差异很大，受基质稳定性（用于大型植物附着）、沿岸上升流以及陆地沉积物带来的营养输入的影响。颗粒较细的系统更多依赖于来自陆地和海洋的外部能量来源。\n\n生物群落的结构受潮汐和波浪动态的影响，生物表现出适应性以应对低潮时的干燥和波浪冲击。在松散沉积物中，掘穴动物占主导地位，而在稳定基质上，大型植物和滤食动物更为繁盛。生物多样性很高，在颗粒较细的系统中，微生物构成了生物量的主要部分。空间竞争是一个关键的生态驱动因素，特别是在岩石或稳定基质上，而促进性相互作用（如减轻物理压力的保护作用）在所有颗粒大小的环境中都很重要。\n\n地理上，这些系统沿全球海岸线分布，由于波浪作用，群落结构在水平上从暴露的岬角到受保护的海湾有所不同。垂直梯度由潮汐暴露决定，影响物种分布和抗压能力。地形和地貌包括岩石海岸、沙滩、泥滩和淤泥区域，每种地貌支持由基质类型和稳定性塑造的独特生态群落。"
+      },
+      "ja": {
+        "name": "MT1: 海岸線バイオーム",
+        "description": "海岸線システムのバイオームは、陸と海の境界に位置する潮間帯の非生物的生息地で構成されており、温帯から極地までの緯度で陸地が存在する場所に分布しています。環境特性は、潮汐、波、基質粒子の大きさによって形成され、空気への露出、乾燥、温度ストレス、物理的攪乱の勾配を生み出します。生産性は、大型植物の付着に適した基質の安定性、沿岸湧昇、陸地からの堆積物による栄養供給に影響され、大きく異なります。粒子が細かいシステムでは、陸や海からの外部エネルギー源により多く依存します。\n\n生物群集は潮汐や波の動態によって構造化されており、低潮時の乾燥や波の力に対処する適応を示す生物が見られます。未固結の堆積物では穴を掘る動物が優勢であり、安定した基質では大型植物や濾過摂食者が繁栄します。生物多様性は高く、細かい粒子のシステムでは微生物がバイオマスの大部分を占めています。特に岩場や安定した基質では空間を巡る競争が重要な生態学的要因となり、一方で物理的ストレスからの保護といった促進的相互作用は、すべての粒子サイズにおいて重要です。\n\n地理的には、これらのシステムは世界中の海岸線に存在し、波の作用により露出した岬から保護された湾まで、水平的に群集構造が異なります。垂直的な勾配は潮汐の露出によって決まり、種の分布やストレス耐性に影響を与えます。地形や地形的特徴には、岩場の海岸、砂浜、干潟、シルト質の地域が含まれ、それぞれ基質の種類と安定性によって形作られた独自の生態系群集を支えています。"
+      }
+    }
+  },
+  "MT2": {
+    "code": "MT2",
+    "url": "https://global-ecosystems.org/explore/biomes/MT2",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/mt_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_MT2_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/mt_2_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_MT2_19.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/mt_2_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_MT2_20.jpg"
+      }
+    ],
+    "image_count": 3,
+    "i18n": {
+      "en": {
+        "name": "MT2Supralittoral coastal biome",
+        "description": "The supralittoral coastal biome represents the landward transition from marine to terrestrial ecosystems, situated above the direct influence of waves, tides, and freshwater inputs. This biome spans a narrow fringe, typically tens of meters to a few kilometers wide, encircling global coastlines and small islands. Environmental conditions are shaped by onshore winds, driven by air pressure differences between land and sea, which create desiccating conditions, aerosol salt deposition, and salt spray. Occasional storms with exceptional waves and tides disturb the biome, reducing biomass and destabilizing substrates.\n\nThe supralittoral zone supports a specialized, low-diversity biota adapted to extreme conditions, such as high salinity, desiccation, and substrate instability. Vegetation is wind-pruned and exhibits morphological traits like stomatal regulation, extensive rhizomes or root systems, and succulence to tolerate environmental stress. Energy inputs are both autochthonous, derived from local vegetation, and allochthonous, supplied by marine sources such as wrack and guano. Rapid decay processes are facilitated by invertebrate detritivores and physical weathering. The biome also serves as nesting habitat for seabirds, particularly on predator-free islands, with nests located on the surface, within vegetation, or in burrows.\n\nGeographically, supralittoral ecosystems are distributed globally, often confined to coastal margins but widely dispersed due to wind, ocean currents, and migratory species. They are commonly associated with elevated landforms like headlands and coastal dunes, which experience strong environmental gradients. These ecosystems play a critical role in connecting marine and terrestrial biomes, supporting unique species and ecological processes."
+      },
+      "zh": {
+        "name": "MT2: 潮上带海岸生物群系",
+        "description": "超潮间带海岸生物群系是从海洋到陆地生态系统的向陆过渡区域，位于波浪、潮汐和淡水输入的直接影响范围之上。该生物群系分布在一条狭窄的地带上，通常宽度为几十米到几公里，环绕全球海岸线和小岛。环境条件受陆上海风的影响，这种风由陆地和海洋之间的气压差驱动，导致干燥条件、气溶胶盐沉积和盐雾的形成。偶尔的风暴伴随异常的波浪和潮汐会扰乱该生物群系，减少生物量并使基质不稳定。\n\n超潮间带区域支持适应极端条件的专门化、低多样性生物群落，例如高盐度、干燥和基质不稳定。植被受到风的修剪，并表现出如气孔调节、发达的根茎或根系以及肉质化等形态特征，以应对环境压力。能量输入既有自源性（来自当地植被），也有外源性（由海洋来源如漂浮物和鸟粪提供）。快速的分解过程由无脊椎动物碎屑食者和物理风化作用促进。该生物群系还为海鸟提供筑巢栖息地，特别是在无捕食者的小岛上，巢穴位于地表、植被中或洞穴内。\n\n地理上，超潮间带生态系统分布于全球，通常局限于海岸边缘，但由于风、洋流和迁徙物种的作用而广泛分散。它们通常与如海岬和海岸沙丘等地势较高的地貌相关，这些地貌经历强烈的环境梯度。这些生态系统在连接海洋和陆地生物群系方面发挥着关键作用，支持独特的物种和生态过程。"
+      },
+      "ja": {
+        "name": "MT2: 潮上帯沿岸バイオーム",
+        "description": "潮上帯の沿岸バイオームは、海洋生態系から陸上生態系への移行を表し、波、潮汐、淡水の直接的な影響を受けない高位に位置しています。このバイオームは、通常数十メートルから数キロメートルの幅で、世界中の海岸線や小島を取り囲む狭い帯域を形成しています。環境条件は、陸と海の間の気圧差によって生じる陸風によって特徴づけられ、乾燥条件、エアロゾル塩の堆積、塩の飛沫が発生します。時折発生する嵐による異常な波や潮汐は、このバイオームを撹乱し、生物量を減少させ、基質を不安定にします。\n\n潮上帯は、高塩分濃度、乾燥、基質の不安定性といった極端な条件に適応した、専門的で多様性の低い生物群を支えています。植生は風によって剪定され、気孔の調節、広範な根茎や根系、多肉性といった形態的特徴を示し、環境ストレスに耐えます。エネルギー供給は、地元の植生から得られる自生的なもの（オートクトナス）と、海藻や鳥糞などの海洋由来の外来性のもの（アロクトナス）の両方があります。無脊椎動物のデトリタス食者や物理的風化によって、急速な分解プロセスが進行します。このバイオームはまた、特に捕食者がいない島々では海鳥の営巣地として機能し、巣は地表、植生内、または巣穴内に作られます。\n\n地理的には、潮上帯生態系は世界中に分布しており、しばしば沿岸の縁に限定されますが、風、海流、渡り鳥によって広く分散しています。これらの生態系は、岬や海岸砂丘のような高地形に関連していることが多く、強い環境勾配を経験します。これらの生態系は、海洋と陸上のバイオームをつなぐ重要な役割を果たし、独自の種と生態プロセスを支えています。"
+      }
+    }
+  },
+  "MT3": {
+    "code": "MT3",
+    "url": "https://global-ecosystems.org/explore/biomes/MT3",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/mt_3.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_MT3_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/mt_3_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_MT3_19.jpg"
+      }
+    ],
+    "image_count": 2,
+    "i18n": {
+      "en": {
+        "name": "MT3Anthropogenic shorelines biome",
+        "description": "The Anthropogenic shorelines biome is characterized by human-made coastal environments, including urbanized and industrial areas, artificial islands, and marine interfaces constructed from materials such as concrete, timber, lithic blocks, and earthen fill. These structures often replace or extend natural shorelines and may include floating platforms with smooth, downward-facing surfaces that are atypical in natural systems. The biome experiences strong tidal desiccation regimes, influencing colonization by organisms.\n\nThe climate and environmental conditions of this biome are shaped by its proximity to developed areas, with nutrient influx from stormwater and effluent contributing to eutrophic conditions. Light availability and temperature vary by geographic location, but the biome is globally distributed along urbanized coasts. Water conditions are influenced by human activity, including nutrient enrichment and pollution, which regulate ecological dynamics.\n\nThe biota of anthropogenic shorelines is opportunistic and cosmopolitan, with limited biodiversity and simplified trophic structures compared to natural shorelines. Vertical surfaces are colonized by algae and biofouling organisms adapted to withstand desiccation, while floating structures provide novel habitats for opportunistic colonists. Predatory species are generally depleted or deterred due to human activity, resulting in strong bottom-up ecological regulation driven by nutrient inputs and low predation pressure.\n\nGeographically, this biome is found worldwide wherever human development intersects coastal areas. It is associated with urbanized terrains and artificial landforms, including docks, seawalls, and floating platforms, which replace or augment natural coastal features. These environments represent a unique ecological niche shaped by human influence and resource inputs."
+      },
+      "zh": {
+        "name": "MT3: 人为海岸线生物群系",
+        "description": "人类活动岸线生物群系的特点是由人类建造的沿海环境，包括城市化和工业化区域、人工岛屿以及由混凝土、木材、石块和填土等材料构成的海洋界面。这些结构通常替代或延伸自然岸线，并可能包括带有光滑、向下倾斜表面的浮动平台，这在自然系统中并不常见。该生物群系经历强烈的潮汐干燥机制，影响了生物的定殖。\n\n该生物群系的气候和环境条件受其靠近开发区域的影响，暴雨径流和废水中的营养物质流入导致富营养化条件。光照可用性和温度因地理位置而异，但该生物群系在全球范围内沿城市化海岸分布。水体条件受到人类活动的影响，包括营养物质富集和污染，这调节了生态动态。\n\n人类活动岸线的生物群系具有机会主义和世界性特征，与自然岸线相比，其生物多样性有限，营养结构简化。垂直表面被适应干燥环境的藻类和附着生物占据，而浮动结构为机会主义定殖者提供了新型栖息地。由于人类活动，捕食性物种通常减少或被驱离，导致由营养物质输入和低捕食压力驱动的强底层生态调节。\n\n从地理上看，这种生物群系分布于全球范围内人类开发与沿海区域交汇的地方。它与城市化地形和人工地貌相关，包括码头、防波堤和浮动平台，这些结构替代或增强了自然沿海特征。这些环境代表了一个由人类影响和资源输入塑造的独特生态位。"
+      },
+      "ja": {
+        "name": "MT3: 人為的海岸線バイオーム",
+        "description": "人為的海岸線バイオームは、都市化や工業化された地域、人工島、コンクリート、木材、石材ブロック、土砂埋立などの材料で構築された海洋インターフェースを含む、人間によって作られた沿岸環境を特徴としています。これらの構造物は、自然の海岸線を置き換えたり拡張したりすることが多く、自然環境では見られない滑らかで下向きの表面を持つ浮遊プラットフォームを含む場合があります。このバイオームは強い潮汐乾燥の影響を受け、生物の定着に影響を与えます。\n\nこのバイオームの気候と環境条件は、開発地域の近接性によって形成されており、雨水や排水からの栄養分流入が富栄養化の条件を助長しています。光の利用可能性や温度は地理的位置によって異なりますが、このバイオームは都市化された海岸沿いに世界的に分布しています。水質条件は人間活動によって影響を受け、栄養分の増加や汚染が生態系の動態を調整しています。\n\n人為的海岸線の生物群集は、機会主義的でコスモポリタンな性質を持ち、自然の海岸線と比べて生物多様性が限られ、栄養段階構造が単純化されています。垂直面には乾燥に耐える適応を持つ藻類や付着生物が定着し、浮遊構造物は機会主義的な生物の新しい生息地を提供します。捕食種は一般的に人間活動によって減少または抑制され、栄養分の流入と低い捕食圧によって駆動される強いボトムアップ型の生態系調整が見られます。\n\n地理的には、このバイオームは人間の開発が沿岸地域と交差する場所で世界中に見られます。都市化された地形や人工的な地形、例えばドック、防波堤、浮遊プラットフォームなどに関連しており、これらは自然の沿岸地形を置き換えたり補完したりします。これらの環境は、人間の影響と資源の流入によって形成された独特な生態的ニッチを表しています。"
+      }
+    }
+  },
+  "S1": {
+    "code": "S1",
+    "url": "https://global-ecosystems.org/explore/biomes/S1",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/s_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_S1_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/s_1_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_S1_18.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/s_1_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_S1_19.jpg"
+      }
+    ],
+    "image_count": 3,
+    "i18n": {
+      "en": {
+        "name": "S1Subterranean lithic biome",
+        "description": "The subterranean lithic biome is characterized by its location beneath the earth's surface, where sunlight is either absent or too weak to support photosynthesis. This environment lacks standing water, with moisture primarily supplied through substrate seepage. The biome is physically stable with low environmental variability, although occasional rock falls can alter its structure. The trophic structure is truncated, lacking photoautotrophs and featuring few obligate predators. The ecosystem is dominated by heterotrophic microbes and invertebrates, with chemoautotrophs serving as the primary energy assimilators. These organisms typically exhibit low metabolic rates and extended life histories due to limited resources, leading to low overall productivity.\n\nThe subterranean lithic biome encompasses dry caves and endolithic systems, which are found throughout the earth's crust. Transitional biomes may form with the incursion of fresh or marine waters. This biome's unique conditions—absence of light, limited moisture, and stable physical environment—shape its distinct ecological community and distribution."
+      },
+      "zh": {
+        "name": "S1: 地下岩石生物群系",
+        "description": "地下岩石生物群系的特征是位于地表之下，阳光缺乏或太微弱，无法支持光合作用。该环境中没有静止的水体，湿气主要通过基质渗透提供。生物群系的物理环境稳定，环境变化性低，但偶尔的岩石坠落可能会改变其结构。营养结构较为简化，缺乏光自养生物，仅有少量专性捕食者。该生态系统以异养微生物和无脊椎动物为主，化能自养生物是主要的能量同化者。这些生物通常表现出低代谢率和较长的生命周期，由于资源有限，整体生产力较低。\n\n地下岩石生物群系包括干燥洞穴和岩内系统，分布于地壳各处。当淡水或海水渗入时，可能形成过渡生物群系。该生物群系独特的条件——缺乏光照、有限的湿气和稳定的物理环境——塑造了其独特的生态群落和分布特征。"
+      },
+      "ja": {
+        "name": "S1: 地下岩石バイオーム",
+        "description": "地下の岩石生物群系は地表の下に位置し、光合成を支えるには日光が存在しないか、または非常に弱い環境によって特徴づけられます。この環境には立ち水がなく、主に基質からの浸透によって水分が供給されます。この生物群系は物理的に安定しており、環境変動が少ないですが、時折発生する岩の崩落がその構造を変えることがあります。栄養段階構造は簡略化されており、光合成生物（光自養生物）が存在せず、専属捕食者もほとんどいません。この生態系は従属栄養性の微生物や無脊椎動物が優勢であり、化学合成自養生物が主なエネルギー同化者として機能しています。これらの生物は一般的に代謝率が低く、資源が限られているために寿命が長い傾向があり、全体的な生産性は低いです。\n\n地下の岩石生物群系には乾燥した洞窟や地殻内の岩石生物系が含まれ、地球の地殻全体に広がっています。淡水や海水が侵入することで移行的な生物群系が形成されることもあります。この生物群系の独特な条件—光の欠如、限られた水分、安定した物理環境—がその特異な生態系コミュニティと分布を形成しています。"
+      }
+    }
+  },
+  "S2": {
+    "code": "S2",
+    "url": "https://global-ecosystems.org/explore/biomes/S2",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/s_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_S2_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/s_2_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_S2_18.jpg"
+      }
+    ],
+    "image_count": 2,
+    "i18n": {
+      "en": {
+        "name": "S2Anthropogenic subterranean voids biome",
+        "description": "The Anthropogenic subterranean voids biome consists of ecosystems created by human excavation, including underground mines, transport tunnels, tombs, defense installations, and other infrastructure. These ecosystems are predominantly recent, originating from industrial-era machinery, though some date back millennia and were manually constructed. \n\nEnvironmental conditions in these voids are characterized by low productivity and reliance on external energy sources. Energy primarily enters through atmospheric diffusion or water seepage from the surface, with minor contributions from chemoautotrophic microbes. Sunlight is absent or highly diffuse, though artificial lighting in active voids can support limited algal autotrophs. Temperatures and humidity levels vary depending on depth, substrate, and ventilation, but the absence of direct sunlight generally results in stable, cool conditions.\n\nOrganisms in this biome are limited and include opportunistic microbes, invertebrates, and occasionally small mammals. Microbial communities, including endolithic species, colonize exposed lithic surfaces, forming biofilms that support detritivores and contribute to substrate weathering. These trophic webs are simple and often dominated by species introduced through human activity or spontaneous colonization via surface openings.\n\nGeographically, these ecosystems are distributed globally, corresponding to areas of human excavation activity. Their ecological distribution is patchy and localized, reflecting the anthropogenic nature of their origin. \n\nThe terrain and landforms associated with this biome include artificial subterranean structures, often in rocky or sedimentary substrates. Stability varies widely, with some voids prone to collapse or structural changes after abandonment, depending on their geological and engineering characteristics."
+      },
+      "zh": {
+        "name": "S2: 人为地下空洞生物群系",
+        "description": "人类活动形成的地下空洞生物群系包括由人类挖掘创造的生态系统，例如地下矿井、交通隧道、墓穴、防御设施及其他基础设施。这些生态系统主要是工业时代机械化产生的，尽管一些可以追溯到几千年前并由人工建造。\n\n这些空洞中的环境条件具有低生产力，并依赖外部能源。能量主要通过大气扩散或地表渗水进入，化能自养微生物贡献较少。阳光缺乏或极为微弱，但在活跃的空洞中人工照明可以支持有限的藻类自养生物。温度和湿度因深度、基质和通风情况而异，但由于缺乏直接阳光，通常表现为稳定且凉爽的条件。\n\n该生物群系中的生物种类有限，包括机会主义微生物、无脊椎动物以及偶尔出现的小型哺乳动物。微生物群落，包括岩内生物种，定殖于裸露的岩石表面，形成生物膜，支持食腐动物并促进基质风化。这些营养网结构简单，通常由人类活动引入的物种或通过地表开口自发定殖的物种占主导地位。\n\n这些生态系统在全球范围内分布，与人类挖掘活动区域相对应。它们的生态分布呈现出斑块状和局部化的特点，反映了其人为起源。\n\n与该生物群系相关的地形和地貌包括人工地下结构，通常位于岩石或沉积基质中。稳定性差异很大，一些空洞在废弃后可能因地质和工程特性而发生坍塌或结构变化。"
+      },
+      "ja": {
+        "name": "S2: 人為的地下空洞バイオーム",
+        "description": "人為的地下空洞生物群系は、人間による掘削によって作られた生態系で構成されており、地下鉱山、交通トンネル、墓、防衛施設、その他のインフラを含みます。これらの生態系は主に近代的な機械による産業時代に起源を持つものですが、一部は数千年前に手作業で建設されたものも存在します。\n\nこれらの空洞の環境条件は、生産性が低く、外部のエネルギー源に依存していることが特徴です。エネルギーは主に大気拡散や地表からの水の浸透を通じて供給され、化学合成栄養細菌によるわずかな寄与もあります。太陽光は存在しないか、非常に拡散しているため、活動中の空洞での人工照明が限られた藻類の独立栄養生物を支えることがあります。温度や湿度は深度、基質、換気状況によって異なりますが、直接的な太陽光がないため、一般的に安定した涼しい環境が形成されます。\n\nこの生物群系に生息する生物は限られており、機会主義的な微生物、無脊椎動物、時折小型哺乳類が含まれます。微生物群集は岩石表面にコロニーを形成し、バイオフィルムを作り出して腐食性動物を支え、基質の風化に寄与します。これらの栄養網は単純であり、人間活動によって導入された種や地表の開口部を通じて自然に侵入した種が優勢を占めることが多いです。\n\n地理的には、これらの生態系は人間の掘削活動が行われる地域に対応して世界中に分布しています。その生態学的分布は断片的で局所的であり、それらの起源が人為的であることを反映しています。\n\nこの生物群系に関連する地形や地形構造には、岩石や堆積物基質にある人工的な地下構造物が含まれます。安定性は大きく異なり、放棄後の崩壊や構造変化が地質学的および工学的特性に依存して発生する場合があります。"
+      }
+    }
+  },
+  "SF1": {
+    "code": "SF1",
+    "url": "https://global-ecosystems.org/explore/biomes/SF1",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/sf_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_SF1_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/sf_1_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_SF1_19.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/sf_1_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_SF1_20.jpg"
+      }
+    ],
+    "image_count": 3,
+    "i18n": {
+      "en": {
+        "name": "SF1Subterranean freshwaters biome",
+        "description": "The subterranean freshwater biome encompasses streams, small lakes, and aquifers located beneath the Earth's surface, representing one of the largest freshwater reservoirs. These ecosystems lack sunlight and depend on energy inputs from surface systems via connected waters and chemoautotrophic processes. Water flow varies significantly, ranging from rapid in highly connected systems, such as those in monsoonal climates with seasonal flooding and drying, to extremely slow in paleo-aquifers with millennial-scale seepage. Dissolved oxygen and nutrients primarily enter through inflowing water, with additional nutrients released by weathering of subsurface rock.\n\nEnvironmental conditions are shaped by water flow regimes, which influence variability and nutrient availability. Occasionally, mass movements may impact these systems. The absence of light precludes photosynthesis, and the trophic structure is truncated. Chemoautotrophic and heterotrophic microbes dominate, forming biofilms and supporting small invertebrate detritivores and predators. In larger voids, small predatory fish may be present. Transient photosynthetically inactive algae and plant propagules can occur in systems connected to the surface. Resource scarcity leads to low productivity, slow metabolic rates, and specialized life histories, with insular systems often exhibiting high endemism.\n\nGeographically, subterranean freshwater systems are distributed globally, with their ecological characteristics influenced by connectivity to surface waters and regional hydrology. They are associated with diverse terrain and landforms, including karst landscapes, porous sedimentary basins, and ancient aquifers. These ecosystems are vital for maintaining biodiversity and hydrological processes, despite their often-hidden nature."
+      },
+      "zh": {
+        "name": "SF1: 地下淡水生物群系",
+        "description": "地下淡水生物群系包括位于地表下的溪流、小湖泊和含水层，是地球上最大的淡水储存库之一。这些生态系统缺乏阳光，依赖通过连通水体和化能自养过程从地表系统输入能量。水流变化显著，从季节性洪水和干旱的季风气候中高度连通的系统中的快速流动，到千年尺度渗流的古含水层中的极慢流动。溶解氧和营养物质主要通过流入的水进入，同时地下岩石风化也会释放额外的营养物质。\n\n环境条件由水流模式塑造，这影响了变化性和营养物质的可用性。有时，大规模运动可能会影响这些系统。由于缺乏光线，光合作用无法进行，营养结构被截断。化能自养和异养微生物占主导地位，形成生物膜，并支持小型无脊椎动物碎屑食者和捕食者。在较大的空隙中，可能存在小型捕食性鱼类。在与地表相连的系统中，可能会出现暂时性的非光合作用藻类和植物繁殖体。资源匮乏导致生产力低下、新陈代谢缓慢，以及特化的生活史，孤立的系统通常表现出高度的特有性。\n\n从地理分布来看，地下淡水系统遍布全球，其生态特征受与地表水连通性和区域水文条件的影响。这些系统与多样化的地形和地貌相关，包括喀斯特地貌、多孔沉积盆地和古老含水层。这些生态系统对于维持生物多样性和水文过程至关重要，尽管它们通常隐藏于地下。"
+      },
+      "ja": {
+        "name": "SF1: 地下淡水バイオーム",
+        "description": "地下淡水生物群系は、地表下に位置する地下河川、小湖、帯水層を含み、地球上で最大の淡水貯蔵庫の一つを形成しています。これらの生態系は日光が届かないため、地表系から接続された水を介したエネルギー供給や化学合成栄養獲得プロセスに依存しています。水の流れは大きく異なり、季節的な洪水や乾燥が見られるモンスーン気候のような高い接続性を持つシステムでは急速に流れる一方で、千年単位の浸透が見られる古帯水層では非常に遅い流れとなります。溶存酸素や栄養分は主に流入する水を通じて供給され、さらに地下岩石の風化によって追加の栄養分が放出されます。\n\n環境条件は水の流れの特性によって形成され、これが変動性や栄養分の利用可能性に影響を与えます。時折、大規模な地形変動がこれらのシステムに影響を及ぼすこともあります。光が届かないため光合成は行われず、栄養段階構造は短縮されています。化学合成栄養獲得微生物や従属栄養微生物が優勢であり、バイオフィルムを形成して小型の無脊椎動物の腐食食者や捕食者を支えています。より大きな空隙では、小型の捕食性魚類が存在することもあります。地表と接続されたシステムでは、光合成を行わない藻類や植物の繁殖体が一時的に見られることがあります。資源の乏しさにより、生産性は低く、代謝速度は遅く、特殊化した生活史が見られます。孤立したシステムでは高い固有性がしばしば見られます。\n\n地理的には、地下淡水システムは世界中に分布しており、その生態学的特性は地表水との接続性や地域の水文学によって影響を受けます。これらはカルスト地形、多孔質の堆積盆地、古代の帯水層など、多様な地形や地形区分に関連しています。これらの生態系は、その隠れた性質にもかかわらず、生物多様性と水文学的プロセスを維持する上で重要な役割を果たしています。"
+      }
+    }
+  },
+  "SF2": {
+    "code": "SF2",
+    "url": "https://global-ecosystems.org/explore/biomes/SF2",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/sf_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_SF2_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/sf_2_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_SF2_19.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/sf_2_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_SF2_20.jpg"
+      }
+    ],
+    "image_count": 3,
+    "i18n": {
+      "en": {
+        "name": "SF2Anthropogenic subterranean freshwaters biome",
+        "description": "The Artificial Subterranean Freshwaters biome encompasses human-constructed aquatic systems such as underground canals, drains, sewers, water pipes, and flooded mines, often interconnected with surface waters. These environments are characterized by the absence of sunlight, with only minimal light diffusion through vents or portals in some cases, insufficient to support photosynthesis. Water regimes vary widely, ranging from permanent to intermittent systems with flow velocities from negligible (e.g., flooded mines) to high (e.g., drains and sewers). Temperature and other environmental conditions are largely influenced by the source waters.\n\nPrimary productivity is minimal due to the lack of light, with energy primarily derived from allochthonous sources. However, secondary productivity can be significant in nutrient-rich systems like sewers and drains, where heterotrophic microbes form biofilms and thrive in the water column. These microbes support detritivores and predators, including microscopic invertebrates, macro-invertebrates, and small vertebrates such as rodents and fish. In areas with low dissolved oxygen, anaerobic bacteria play a critical role in the trophic network, particularly where organic carbon and nutrients are abundant. Conversely, water supply pipes exhibit low organic carbon and nutrient levels, leading to simplified trophic webs dominated by transient biota reflecting the source waters.\n\nGeographically, this biome is distributed wherever human-engineered subterranean water systems exist, often in urban or industrial areas. The terrain includes artificial landforms such as tunnels, pipelines, and excavated mines, which are integral to the biome's structure. These systems represent a unique ecological niche with distinct energy dynamics and biotic communities adapted to low-light, resource-limited conditions."
+      },
+      "zh": {
+        "name": "SF2: 人为地下淡水生物群系",
+        "description": "人工地下淡水生物群系包括人类建造的水生系统，如地下运河、排水管道、下水道、水管和被淹没的矿井，这些系统通常与地表水相连。这些环境的特点是缺乏阳光，仅在某些情况下通过通风口或开口有少量光线扩散，但不足以支持光合作用。水文状况差异很大，从永久性系统到间歇性系统不等，流速范围从几乎没有（如被淹没的矿井）到很高（如排水管和下水道）。温度和其他环境条件主要受水源的影响。\n\n由于缺乏光照，初级生产力极低，能量主要来源于外源性物质。然而，在像下水道和排水管这样富含营养的系统中，次级生产力可能显著，其中异养微生物形成生物膜并在水柱中繁盛。这些微生物为食碎屑动物和捕食者提供支持，包括微小无脊椎动物、大型无脊椎动物以及小型脊椎动物如啮齿动物和鱼类。在溶解氧含量低的区域，厌氧细菌在营养网络中起着关键作用，特别是在有机碳和营养物质丰富的地方。相比之下，供水管道中的有机碳和营养水平较低，导致营养网简化，主要由反映水源特征的短暂生物群体主导。\n\n地理上，这种生物群系分布于任何存在人类建造的地下水系统的地方，通常位于城市或工业区域。地形包括隧道、管道和挖掘的矿井等人工地貌，这些构造是该生物群系结构的组成部分。这些系统代表了一种独特的生态位，具有独特的能量动态和适应低光、资源有限条件的生物群落。"
+      },
+      "ja": {
+        "name": "SF2: 人為的地下淡水バイオーム",
+        "description": "人工地下淡水生物群系は、地下運河、排水路、下水道、水道管、浸水した鉱山などの人為的に構築された水系を含み、多くの場合、地表水と相互接続されています。これらの環境は日光が届かないことが特徴であり、一部では通気口や開口部を通じてわずかな光が拡散する場合もありますが、光合成を支えるには不十分です。水の流れは多様で、恒久的なものから断続的なものまであり、流速もほとんどない（例：浸水した鉱山）ものから高速（例：排水路や下水道）まで幅広く変化します。温度やその他の環境条件は主に水源によって影響を受けます。\n\n光が不足しているため、一次生産性は最小限にとどまり、エネルギーは主に外来起源（アロクトナス）の供給源に依存しています。しかし、下水道や排水路のような栄養豊富なシステムでは、従属栄養性微生物がバイオフィルムを形成し、水柱内で繁栄するため、二次生産性が顕著になることがあります。これらの微生物は、微小無脊椎動物、マクロ無脊椎動物、小型脊椎動物（例：齧歯類や魚類）などの腐食食者や捕食者を支えます。溶存酸素が少ない地域では、有機炭素や栄養素が豊富な場所を中心に、嫌気性細菌が栄養網において重要な役割を果たします。一方、水道管では有機炭素や栄養素のレベルが低いため、栄養網は単純化され、水源を反映した一時的な生物群が優勢となります。\n\n地理的には、この生物群系は人間が設計した地下水系が存在する場所、特に都市部や工業地域に分布しています。地形にはトンネル、パイプライン、掘削された鉱山などの人工地形が含まれ、これらは生物群系の構造に不可欠です。これらのシステムは、低光量で資源が限られた条件に適応した独特のエネルギー動態と生物群集を持つ、特異な生態的ニッチを表しています。"
+      }
+    }
+  },
+  "SM1": {
+    "code": "SM1",
+    "url": "https://global-ecosystems.org/explore/biomes/SM1",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/sm_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_SM1_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/sm_1_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_SM1_19.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/sm_1_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_SM1_20.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/sm_1_3.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_SM1_21.jpg"
+      }
+    ],
+    "image_count": 4,
+    "i18n": {
+      "en": {
+        "name": "SM1Subterranean tidal biome",
+        "description": "The subterranean tidal biome is a unique ecosystem characterized by coastal pools, voids, and caves with submerged or partially submerged connections to marine waters. This environment is defined by the absence or minimal presence of sunlight, precluding photosynthesis. Energy, nutrients, and oxygen are supplied from external sources (allochthonous inputs) such as marine shelf ecosystems, terrestrial aquifers, and surface coastal systems. These inputs undergo microbial biogeochemical transformations, supporting the ecosystem's energy flow. Salinity gradients, often forming haloclines, are prominent in carbonate and volcanic geologies, marking zones of biogeochemical cycling.\n\nOrganisms in this biome include diverse chemoautotrophic and heterotrophic microbes, scavengers, filter feeders, and predators. Many species exhibit adaptations to the dark, low-productivity environment, such as depigmentation, reduced visual organs, heightened tactile and chemical sensitivity, low fecundity, slow metabolism, and long lifespans. Some species can traverse haloclines due to osmotic regulation abilities. Trophic webs are truncated due to the absence of photoautotrophs, and some biota share traits with deep-sea organisms.\n\nGeographically, this biome occurs in coastal regions with connections to marine waters, particularly in areas with carbonate or volcanic geologies. The terrain includes flooded subterranean voids, caves, and anchialine systems. Tides play a crucial role in hydrological mixing, resource distribution, and biotic dispersal. Nearer to marine connections, sessile invertebrates like sponges dominate, while deeper, less-flushed areas host stygobitic crustaceans, annelids, and other strictly subterranean aquatic fauna. This biome represents a specialized ecological niche with distinct physical and biological characteristics."
+      },
+      "zh": {
+        "name": "SM1: 地下潮汐生物群系",
+        "description": "地下潮汐生物群落是一种独特的生态系统，其特征是沿海水池、空洞和洞穴与海洋水体之间存在淹没或部分淹没的连接。这种环境由于缺乏或几乎没有阳光而无法进行光合作用。能量、营养物质和氧气通过外部来源（异地输入）供应，例如海洋陆架生态系统、陆地含水层和地表沿海系统。这些输入经过微生物的生物地球化学转化，支持生态系统的能量流动。盐度梯度（通常形成盐跃层）在碳酸盐和火山地质中尤为显著，标志着生物地球化学循环的区域。\n\n该生物群落中的生物包括多样的化能自养和异养微生物、拾荒者、滤食者和捕食者。许多物种表现出对黑暗、低生产力环境的适应，例如色素减少、视觉器官退化、触觉和化学敏感性增强、生殖能力低、代谢缓慢以及寿命长。一些物种由于具备渗透调节能力能够穿越盐跃层。由于缺乏光能自养生物，食物网较为简化，一些生物与深海生物具有相似特征。\n\n从地理分布来看，这种生物群落存在于与海洋水体相连的沿海地区，特别是在碳酸盐或火山地质区域。地形包括被水淹没的地下空洞、洞穴和近海咸淡水系统。潮汐在水文混合、资源分布和生物扩散中起着关键作用。在靠近海洋连接的区域，海绵等固着性无脊椎动物占主导地位，而在更深、更少受潮水冲刷的区域，则栖息着地下水生甲壳类动物、环节动物以及其他严格意义上的地下水生动物。该生物群落代表了一种具有独特物理和生物特征的特殊生态位。"
+      },
+      "ja": {
+        "name": "SM1: 地下潮汐バイオーム",
+        "description": "地下潮汐生物群系は、海洋水域と水中または部分的に水中で接続された沿岸の水たまり、空洞、洞窟によって特徴付けられる独特な生態系です。この環境は、光がほとんどまたは全く存在しないため、光合成が行われません。エネルギー、栄養素、酸素は、海洋棚生態系、陸地帯水層、沿岸表層系などの外部から供給される（外来性入力）。これらの入力は微生物による生物地球化学的変換を受け、生態系のエネルギー流動を支えています。炭酸塩や火山地質では塩分濃度の勾配が顕著で、しばしば塩分躍層（ハロクライン）を形成し、生物地球化学的循環のゾーンを示します。\n\nこの生物群系の生物には、多様な化学合成従属栄養微生物、腐肉食者、濾過摂食者、捕食者が含まれます。多くの種は暗く、生産性の低い環境に適応しており、脱色、視覚器官の縮小、触覚や化学感覚の鋭敏化、低い繁殖力、遅い代謝、長寿命などの特徴を示します。一部の種は浸透調節能力により塩分躍層を横断することができます。栄養網は光合成独立栄養生物が存在しないため短縮されており、一部の生物は深海生物と共通の特徴を持っています。\n\n地理的には、この生物群系は海洋水域と接続された沿岸地域、特に炭酸塩や火山地質の地域に存在します。地形には浸水した地下空洞、洞窟、アンキアライン系が含まれます。潮汐は水文混合、資源分配、生物分散に重要な役割を果たします。海洋との接続に近い場所では、海綿などの固着性無脊椎動物が優勢であり、より深く流動が少ない場所では、地下水生生物である甲殻類、環形動物、およびその他の厳密に地下水生の水生生物が生息しています。この生物群系は、独特の物理的および生物学的特徴を持つ特殊な生態的ニッチを表しています。"
+      }
+    }
+  },
+  "T1": {
+    "code": "T1",
+    "url": "https://global-ecosystems.org/explore/biomes/T1",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T1_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_1_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T1_18.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_1_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T1_19.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_1_3.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T1_20.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_1_4.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T1_21.jpg"
+      }
+    ],
+    "image_count": 5,
+    "i18n": {
+      "en": {
+        "name": "T1Tropical-subtropical forests biome",
+        "description": "The Tropical-subtropical forests biome is characterized by closed tree canopies and occurs predominantly at lower latitudes near the equator, extending into subtropical regions with suitable mesoclimates. The environment features high insolation, warm temperatures, minimal seasonal variation in temperature and day length, and significant water surpluses driven by the intertropical convergence zone. Rainfall gradients, altitudinal changes, and soil nutrient availability further influence ecosystem productivity and biomass.\n\nThis biome supports high primary productivity and complex trophic structures, with species diversity positively correlated to biomass. Dominant photoautotrophs, primarily trees, regulate ecosystem processes by fixing energy and carbon, creating habitats, and driving nutrient and water cycling. Nutrient cycling mechanisms are highly efficient, countering the risk of soil nutrient leaching due to heavy rainfall. Plants exhibit adaptive traits such as leaf plasticity, shade tolerance, and gap-phase dynamics, responding to canopy disturbances caused by tree death, storms, and lightning. Fires may occur in transitional zones between these forests and savannas.\n\nGeographically, these forests are distributed across tropical and subtropical regions, with fragmented occurrences influenced by biogeographic legacies that create compositional and functional distinctions among land masses. The terrain includes areas with strong rainfall gradients, altitudinal variations, and diverse soil conditions, shaping the ecological distribution of the biome."
+      },
+      "zh": {
+        "name": "T1: 热带-亚热带森林生物群系",
+        "description": "热带-亚热带森林生物群系的特征是树冠闭合，主要分布在靠近赤道的低纬度地区，并延伸到具有适宜中气候的亚热带地区。该环境具有高太阳辐射、温暖的气温、温度和日照时间的季节性变化较小，以及由热带辐合带驱动的显著水分盈余。降雨梯度、海拔变化和土壤养分的可用性进一步影响生态系统的生产力和生物量。\n\n该生物群系支持高初级生产力和复杂的营养结构，物种多样性与生物量呈正相关。主要的光合自养生物主要是树木，通过固定能量和碳、创造栖息地以及驱动养分和水循环来调节生态系统过程。养分循环机制高度高效，抵消了因强降雨导致的土壤养分流失的风险。植物表现出适应性特征，如叶片可塑性、耐荫性和空隙阶段动态，以应对由树木死亡、风暴和雷电引起的树冠干扰。在这些森林与稀树草原的过渡区域可能会发生火灾。\n\n地理上，这些森林分布于热带和亚热带地区，其分布呈碎片化，受生物地理遗留影响，在不同陆地块之间形成组成和功能上的差异。地形包括具有强降雨梯度、海拔变化和多样土壤条件的区域，这些因素共同塑造了该生物群系的生态分布。"
+      },
+      "ja": {
+        "name": "T1: 熱帯・亜熱帯林バイオーム",
+        "description": "熱帯・亜熱帯森林バイオームは、樹冠が密閉された樹木によって特徴づけられ、主に赤道付近の低緯度地域で発生し、適切な中間気候を持つ亜熱帯地域にまで広がっています。この環境は、高い日射量、暖かい気温、気温と日長の季節変動がほとんどないこと、そして熱帯収束帯によって引き起こされる顕著な水の余剰が特徴です。降雨の勾配、標高の変化、土壌の栄養分の利用可能性が、さらに生態系の生産性とバイオマスに影響を与えます。\n\nこのバイオームは高い一次生産性と複雑な栄養構造を支え、種の多様性はバイオマスと正の相関を示します。主要な光合成独立栄養生物である樹木が、エネルギーと炭素を固定し、生息地を形成し、栄養と水の循環を促進することで生態系のプロセスを調整します。栄養循環のメカニズムは非常に効率的であり、大雨による土壌栄養分の流出のリスクを抑えます。植物は葉の可塑性、耐陰性、ギャップフェーズ動態などの適応特性を示し、樹木の死、嵐、雷による樹冠の撹乱に対応します。これらの森林とサバンナの移行地帯では火災が発生することもあります。\n\n地理的には、これらの森林は熱帯および亜熱帯地域に分布しており、生物地理学的な遺産によって断片化され、陸塊間で構成的および機能的な違いを生じさせています。地形には、強い降雨勾配、標高の変化、多様な土壌条件を持つ地域が含まれ、このバイオームの生態学的分布を形作っています。"
+      }
+    }
+  },
+  "T2": {
+    "code": "T2",
+    "url": "https://global-ecosystems.org/explore/biomes/T2",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T2_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_2_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T2_18.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_2_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T2_19.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_2_3.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T2_20.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_2_4.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T2_21.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_2_5.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T2_22.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_2_6.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T2_23.jpg"
+      }
+    ],
+    "image_count": 7,
+    "i18n": {
+      "en": {
+        "name": "T2Temperate-boreal forests and woodlands biome",
+        "description": "Temperate-boreal forests and woodlands are tree-dominated ecosystems ranging from warm-temperate to boreal latitudes, characterized by moderate to high productivity and diverse structural expressions. These forests experience significant temporal and spatial variability in productivity, biomass, phenology, and leaf traits, driven by seasonal changes in water balance and temperature. Growing and breeding seasons are regulated by these factors, while inter-annual variability, though less pronounced than in other biomes, influences resource availability and disturbance regimes such as fire and storms.\n\nEnvironmental gradients, including minimum temperatures, soil nutrient levels, and fire regimes, shape ecosystem functional groups within this biome. These gradients influence key plant traits, such as leaf morphology (broadleaf vs. needleleaf), leaf phenology (evergreen vs. deciduous), nutrient acquisition and conservation strategies, and adaptations to fire, including flammability, fire resistance, and recovery mechanisms. Seasonal and disturbance-driven dynamics contribute to the ecological processes and resource availability in these forests.\n\nThe dominant organisms are trees, which serve as primary photoautotrophs and habitat engineers, forming the foundation of trophic webs. Resource gradients exert bottom-up controls on ecological processes, while fire acts as a significant top-down force, consuming biomass and influencing ecosystem feedbacks, including flammability and life-history timing such as reproduction and recruitment.\n\nGeographically, temperate-boreal forests span warm-temperate to boreal regions, with their distribution shaped by climatic and soil conditions. The terrain typically includes varied landforms such as rolling hills, plains, and mountainous areas, which further influence local ecological dynamics. These forests are less taxonomically diverse than tropical-subtropical forests but exhibit greater variability in functional and structural traits, reflecting their adaptation to seasonal and disturbance-driven environmental conditions."
+      },
+      "zh": {
+        "name": "T2: 温带-寒带森林和林地生物群系",
+        "description": "温带-寒带森林和林地是以树木为主的生态系统，分布在从温暖的温带到寒带的纬度范围内，具有中等到高的生产力和多样的结构特征。这些森林的生产力、生物量、物候和叶片特性在时间和空间上表现出显著的变化，这种变化主要由水分平衡和温度的季节性变化驱动。生长和繁殖季节受这些因素调控，而年际变化虽然不如其他生物群系显著，但仍会影响资源的可用性和火灾、风暴等干扰机制。\n\n环境梯度，包括最低温度、土壤养分水平和火灾机制，塑造了该生物群系内的生态系统功能群。这些梯度影响了植物的关键特性，如叶片形态（阔叶与针叶）、叶片物候（常绿与落叶）、养分获取和保存策略，以及对火灾的适应性，包括可燃性、耐火性和恢复机制。季节性和干扰驱动的动态对这些森林的生态过程和资源可用性起到了重要作用。\n\n树木是主要的生物群落成员，作为主要的光合自养生物和栖息地工程师，构成了食物网的基础。资源梯度对生态过程施加了自下而上的控制，而火灾作为重要的自上而下的力量，消耗生物量并影响生态系统反馈，包括可燃性以及生物的生活史时间，如繁殖和更新。\n\n地理上，温带-寒带森林分布于从温暖的温带到寒带的区域，其分布受到气候和土壤条件的影响。地形通常包括起伏的丘陵、平原和山区，这些地形进一步影响了局部的生态动态。这些森林的物种多样性低于热带-亚热带森林，但在功能和结构特性上表现出更大的变异性，反映了它们对季节性和干扰驱动的环境条件的适应性。"
+      },
+      "ja": {
+        "name": "T2: 温帯・亜寒帯林および疎林バイオーム",
+        "description": "温帯-亜寒帯の森林と林地は、暖温帯から亜寒帯の緯度にわたる樹木が優勢な生態系であり、中程度から高い生産性と多様な構造的表現が特徴です。これらの森林は、水収支と気温の季節的変化によって、生産性、バイオマス、季節性、葉の特性において顕著な時間的および空間的変動を経験します。成長期と繁殖期はこれらの要因によって調整されますが、他のバイオームほど顕著ではないものの、年々の変動が資源の利用可能性や火災や嵐などの撹乱の体制に影響を与えます。\n\n最低気温、土壌の栄養レベル、火災の体制などの環境勾配は、このバイオーム内の生態系機能群を形成します。これらの勾配は、葉の形態（広葉樹 vs. 針葉樹）、葉の季節性（常緑樹 vs. 落葉樹）、栄養の取得と保存戦略、火災への適応（燃えやすさ、耐火性、回復機構）などの主要な植物特性に影響を与えます。季節的および撹乱による動態は、これらの森林における生態プロセスと資源の利用可能性に寄与します。\n\n主要な生物は樹木であり、これらは主要な光合成独立栄養生物および生息地の構築者として機能し、栄養段階の基盤を形成します。資源勾配は生態プロセスにボトムアップの制御を及ぼし、一方で火災はバイオマスを消費し、燃えやすさや繁殖・採用などの生活史のタイミングを含む生態系フィードバックに影響を与える重要なトップダウンの力として機能します。\n\n地理的には、温帯-亜寒帯の森林は暖温帯から亜寒帯地域に広がり、その分布は気候条件と土壌条件によって形成されます。地形は通常、丘陵地、平地、山岳地帯などの多様な地形を含み、これが局所的な生態動態にさらに影響を与えます。これらの森林は、熱帯-亜熱帯の森林ほど分類学的に多様ではありませんが、機能的および構造的特性においてより大きな変動性を示し、季節的および撹乱による環境条件への適応を反映しています。"
+      }
+    }
+  },
+  "T3": {
+    "code": "T3",
+    "url": "https://global-ecosystems.org/explore/biomes/T3",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_3.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T3_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_3_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T3_18.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_3_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T3_19.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_3_3.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T3_20.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_3_4.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T3_21.jpg"
+      }
+    ],
+    "image_count": 5,
+    "i18n": {
+      "en": {
+        "name": "T3Shrublands and shrubby woodlands biome",
+        "description": "The Shrublands and shrub-dominated woodlands biome is characterized by oligotrophic systems on acidic, sandy soils that are often shallow or skeletal. These biomes are distributed globally outside polar regions, typically near continental margins rather than interior regions, and are absent from central Asia. Productivity and biomass are low to moderate, constrained by poor soil fertility, with additional limitations imposed by water deficits in tropical and temperate zones and by low light availability and cold temperatures at higher latitudes.\n\nShrublands exhibit simple trophic networks, with all major functional components present, including photoautotrophic plants, decomposers, detritivores, herbivores, and predators. Shrubs dominate as primary producers, displaying diverse leaf and root adaptations and mutualistic relationships with soil microbes to optimize nutrient acquisition and conservation. Recurrent disturbances, particularly fire, play a critical role in regulating biomass, releasing resources, and driving ecological processes such as recruitment and dispersal. Less frequent disturbances include storms and substrate movement. Fire-adaptive traits, such as re-sprouting organs and seed banks, are vital for maintaining plant diversity and ecosystem structure, especially in regions prone to recurring fires and water scarcity.\n\nGeographically, shrublands are scattered across various terrains and landforms, often near coastal areas but not confined to specific climatic zones. They are influenced by seasonal water availability, with winter deficits in tropical zones and summer deficits in temperate and Mediterranean climates. These ecosystems are shaped by their nutrient-poor soils and disturbance regimes, which collectively determine their ecological distribution and functionality."
+      },
+      "zh": {
+        "name": "T3: 灌木林和灌木疏林生物群系",
+        "description": "灌木丛和灌木主导的林地生物群系的特点是分布在酸性、沙质且通常较浅或骨骼状的贫营养土壤上。这些生物群系分布于全球极地以外的地区，通常位于大陆边缘附近，而非内陆地区，并且在中亚地区不存在。由于土壤肥力差，其生产力和生物量从低到中等水平，同时还受到热带和温带地区水分不足以及高纬度地区光照不足和低温的限制。\n\n灌木丛具有简单的营养网络，包含所有主要功能成分，包括光合自养植物、分解者、食腐动物、植食动物和捕食者。灌木作为主要生产者占主导地位，表现出多样的叶片和根系适应性，并与土壤微生物形成互利关系，以优化养分的获取和保存。反复的干扰，特别是火灾，在调节生物量、释放资源以及推动生态过程（如更新和传播）方面起着关键作用。较少发生的干扰包括风暴和基质移动。适应火灾的特性（如再生器官和种子库）对于维持植物多样性和生态系统结构至关重要，尤其是在易发生火灾和水资源短缺的地区。\n\n地理上，灌木丛分布于各种地形和地貌，通常靠近沿海地区，但不限于特定的气候带。它们受季节性水分供应的影响，在热带地区冬季水分不足，而在温带和地中海气候中夏季水分不足。这些生态系统由其贫瘠的土壤和干扰机制共同塑造，这些因素决定了它们的生态分布和功能特性。"
+      },
+      "ja": {
+        "name": "T3: 低木林および低木疎林バイオーム",
+        "description": "低木地と低木が優勢な森林バイオームは、酸性で砂質の浅いまたは骨格的な土壌上の貧栄養系によって特徴付けられます。このバイオームは極地を除く世界中に分布しており、通常は内陸部よりも大陸の縁に近い地域に存在し、中央アジアには見られません。生産性とバイオマスは低から中程度であり、貧弱な土壌肥沃度によって制約を受けています。さらに、熱帯および温帯地域では水不足、高緯度地域では低光量と低温が追加の制約要因となっています。\n\n低木地は単純な栄養ネットワークを示し、主要な機能的構成要素である光合成独立栄養植物、分解者、腐食食者、草食動物、捕食者がすべて存在します。低木は一次生産者として優勢であり、多様な葉や根の適応を示し、土壌微生物との相利関係を通じて栄養の取得と保存を最適化します。特に火災などの繰り返される撹乱は、バイオマスの調整、資源の放出、募集や分散などの生態学的プロセスを促進する上で重要な役割を果たします。嵐や基質の移動などの撹乱は頻度が低いものの存在します。火災適応性の特性、例えば再生芽や種子バンクは、繰り返される火災や水不足が発生する地域において植物の多様性と生態系構造を維持するために重要です。\n\n地理的には、低木地はさまざまな地形や地形に散在しており、しばしば沿岸地域の近くにありますが、特定の気候帯に限定されるわけではありません。これらは季節的な水の利用可能性に影響され、熱帯地域では冬の水不足、温帯および地中海性気候では夏の水不足が見られます。これらの生態系は、栄養分の乏しい土壌と撹乱体制によって形成され、それらの生態学的分布と機能性を総合的に決定しています。"
+      }
+    }
+  },
+  "T4": {
+    "code": "T4",
+    "url": "https://global-ecosystems.org/explore/biomes/T4",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_4.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T4_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_4_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T4_18.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_4_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T4_19.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_4_3.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T4_20.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_4_4.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T4_21.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_4_5.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T4_22.jpg"
+      }
+    ],
+    "image_count": 6,
+    "i18n": {
+      "en": {
+        "name": "T4Savannas and grasslands biome",
+        "description": "Savannas and grasslands are ecosystems characterized by a predominantly continuous ground layer of grasses, which drive moderate to very high primary productivity. This productivity is strongly influenced by seasonal cycles of water availability, with distinct wet and dry periods. In tropical and subtropical regions, productivity peaks during warm, rainy summers, while in temperate regions, it peaks in spring when warming temperatures align with high soil moisture from winter rains. Water availability and temperature also influence the distribution of C3 and C4 grass species, with grasses responding rapidly to seasonal soil moisture pulses.\n\nThe vegetation structure in these ecosystems ranges from grass-dominated landscapes with no woody plants to areas with scattered trees or shrubs resembling open forests. The balance between grasses and woody plants, as well as between grasses and forbs, is regulated by herbivory and fire. In fertile, productive systems, herbivory by large-bodied mammals is the dominant regulatory force, while in less fertile systems, fire plays a more significant role. Fire not only shapes vegetation structure but also affects nutrient availability through volatilization and nutrient loss in smoke, creating nutrient gradients.\n\nThese ecosystems support a complex trophic web, including diverse mammalian herbivores and their predators. Grasses, which cure during the dry season, contribute to ecosystem flammability, facilitating fire regimes. Mammal diversity, trophic interactions, and plant adaptations, such as physical and chemical defenses against herbivory, vary with soil fertility.\n\nSavannas and grasslands are distributed across tropical, subtropical, and temperate regions, with their ecological characteristics shaped by climatic gradients, particularly rainfall and temperature. These ecosystems are often associated with flat or gently rolling terrain, but their distribution is influenced by soil fertility, fire regimes, and herbivory, which together maintain the balance between grasses and woody vegetation."
+      },
+      "zh": {
+        "name": "T4: 稀树草原和草地生物群系",
+        "description": "稀树草原和草原是以连续的草层为主要特征的生态系统，这些草层驱动着中等到极高的初级生产力。这种生产力受到季节性水资源可用性周期的强烈影响，具有明显的湿季和干季。在热带和亚热带地区，生产力在温暖、多雨的夏季达到峰值，而在温带地区，生产力在春季达到峰值，此时气温升高与冬季降雨带来的高土壤湿度相一致。水资源可用性和温度还影响C3和C4草种的分布，草类对季节性土壤湿度脉冲反应迅速。\n\n这些生态系统的植被结构从以草为主的无木本植物景观到稀疏分布的树木或灌木的开放森林不等。草类与木本植物之间的平衡，以及草类与草本植物之间的平衡，由食草动物和火灾调节。在肥沃、高生产力的系统中，大型哺乳动物的食草行为是主要的调节力量，而在较贫瘠的系统中，火灾则发挥更重要的作用。火灾不仅塑造植被结构，还通过烟雾中的挥发和养分损失影响养分可用性，从而形成养分梯度。\n\n这些生态系统支持复杂的营养网，包括多样化的哺乳动物食草者及其捕食者。在干季，草类枯萎，增加了生态系统的易燃性，促进了火灾发生。哺乳动物的多样性、营养交互作用以及植物的适应性（如针对食草行为的物理和化学防御）因土壤肥力而异。\n\n稀树草原和草原分布于热带、亚热带和温带地区，其生态特征受气候梯度，特别是降雨和温度的影响。这些生态系统通常与平坦或缓坡地形相关，但其分布受到土壤肥力、火灾发生频率和食草行为的影响，这些因素共同维持草类与木本植被之间的平衡。"
+      },
+      "ja": {
+        "name": "T4: サバンナおよび草原バイオーム",
+        "description": "サバンナと草原は、主に連続的な草の地表層によって特徴付けられる生態系であり、中程度から非常に高い一次生産性をもたらします。この生産性は、明確な雨季と乾季を伴う水の利用可能性の季節的サイクルによって強く影響を受けます。熱帯および亜熱帯地域では、暖かく雨の多い夏に生産性がピークに達し、温帯地域では冬の雨による高い土壌水分と温暖化する気温が一致する春にピークに達します。水の利用可能性と気温は、C3型およびC4型の草種の分布にも影響を与え、草は季節的な土壌水分の変動に迅速に反応します。\n\nこれらの生態系の植生構造は、木本植物がない草が優勢な景観から、散在する樹木や低木がある開けた森林に似た地域まで幅広く変化します。草と木本植物、さらには草と広葉草の間のバランスは、草食動物と火災によって調整されます。肥沃で生産性の高いシステムでは、大型哺乳類による草食が主要な調整力となりますが、肥沃度が低いシステムでは火災がより重要な役割を果たします。火災は植生構造を形成するだけでなく、煙による揮発化や栄養素の損失を通じて栄養素の利用可能性にも影響を与え、栄養素の勾配を作り出します。\n\nこれらの生態系は、多様な哺乳類の草食動物とその捕食者を含む複雑な栄養網を支えています。乾季に枯れる草は、生態系の可燃性に寄与し、火災の発生を促進します。哺乳類の多様性、栄養相互作用、草食に対する物理的および化学的防御などの植物の適応は、土壌の肥沃度によって異なります。\n\nサバンナと草原は熱帯、亜熱帯、温帯地域に分布しており、その生態学的特徴は特に降雨量と気温という気候勾配によって形成されています。これらの生態系は通常、平坦または緩やかに起伏する地形と関連していますが、その分布は土壌の肥沃度、火災の発生頻度、草食動物によって影響を受け、草と木本植物のバランスを維持しています。"
+      }
+    }
+  },
+  "T5": {
+    "code": "T5",
+    "url": "https://global-ecosystems.org/explore/biomes/T5",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_5.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T5_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_5_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T5_18.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_5_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T5_19.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_5_3.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T5_20.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_5_4.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T5_21.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_5_5.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T5_22.jpg"
+      }
+    ],
+    "image_count": 6,
+    "i18n": {
+      "en": {
+        "name": "T5Deserts and semi-deserts biome",
+        "description": "The deserts and semi-deserts biome is characterized by arid to semi-arid climates, typically found in subtropical high-pressure zones and continental rain shadow regions. These ecosystems experience very low primary productivity due to extreme water deficits caused by minimal and highly variable rainfall, compounded by high temperatures, desiccating winds, and significant evaporation rates. Light availability is abundant, but the combination of low rainfall and temperature extremes limits biological activity. Resource availability is highly heterogeneous and temporally unpredictable, with productivity driven by sporadic rainfall events that result in \"pulse and reserve\" or \"boom-bust\" dynamics.\n\nVegetation in these ecosystems is sparse and composed of low-stature photoautotrophs adapted to conserve water and withstand harsh conditions. Plants often exhibit morphological adaptations such as deep root systems, reduced leaf surface area, waxy coatings, or the ability to store water in tissues (e.g., succulents). These adaptations enable survival during prolonged droughts and rapid exploitation of resources during brief periods of surplus. Animal life is similarly adapted, with physiological, behavioral, and life-history traits that emphasize water conservation, mobility, and opportunistic resource use. Organisms are often either long-lived drought tolerators with low metabolic rates or short-lived drought evaders capable of dormancy or high mobility to track transient resources.\n\nGeographically, these biomes are distributed across subtropical and continental regions with low precipitation. The terrain is typically heterogeneous, featuring a mix of eroded landscapes, sediment deposition zones, and unstable surfaces due to sparse vegetation cover. High rates of erosion and sedimentation are common, often exacerbated by human activity and large mammals. Competitive interactions are weak, but herbivory and predation become more pronounced during resource-rich periods following rainfall events. Overall, the biome is defined by its extreme environmental constraints and the specialized adaptations of its biota."
+      },
+      "zh": {
+        "name": "T5: 荒漠和半荒漠生物群系",
+        "description": "沙漠和半沙漠生物群系的特点是干旱到半干旱的气候，通常分布在副热带高压带和大陆雨影区。这些生态系统由于降雨量极少且高度不稳定，加上高温、干燥的风和显著的蒸发率，导致极端的水分短缺，从而使初级生产力非常低。光照充足，但低降雨量和极端温度的结合限制了生物活动。资源的可用性高度异质且时间上不可预测，其生产力由偶发的降雨事件驱动，表现为“脉冲与储备”或“繁荣与萧条”的动态模式。\n\n这些生态系统中的植被稀疏，由适应于节约水分和耐受恶劣条件的低矮光合自养生物组成。植物通常表现出形态上的适应性，例如深根系统、减少的叶片表面积、蜡质涂层，或在组织中储存水分的能力（如多肉植物）。这些适应性使植物能够在长期干旱中生存，并在短暂的资源丰富期迅速利用资源。动物生命同样具有适应性，表现出生理、行为和生活史特征，强调节水能力、移动性和机会主义的资源利用。生物体通常分为两类：一类是长寿的耐旱型，代谢率低；另一类是短命的避旱型，能够进入休眠状态或具有高移动性以追踪短暂的资源。\n\n地理上，这些生物群系分布在降水量低的副热带和大陆地区。地形通常具有异质性，包括侵蚀的地貌、沉积区和由于植被稀疏而导致的不稳定表面。高侵蚀率和沉积作用很常见，通常因人类活动和大型哺乳动物而加剧。竞争性相互作用较弱，但在降雨后的资源丰富期，食草和捕食行为变得更加显著。总体而言，这种生物群系以其极端的环境限制和生物群落的特殊适应性为特征。"
+      },
+      "ja": {
+        "name": "T5: 砂漠および半砂漠バイオーム",
+        "description": "砂漠および半砂漠のバイオームは、乾燥から半乾燥の気候を特徴とし、通常、亜熱帯の高圧帯や大陸の雨陰地域に見られます。これらの生態系は、降雨量が非常に少なく変動が激しいことによる極端な水不足、さらに高温、乾燥した風、そして蒸発率の高さが重なり、一次生産性が非常に低いです。光の利用可能性は豊富ですが、降雨量の少なさと温度の極端さが生物活動を制限しています。資源の利用可能性は非常に不均一で時間的に予測不可能であり、生産性は降雨の突発的なイベントによって駆動され、「パルスとリザーブ」または「ブームとバスト」のダイナミクスが生じます。\n\nこれらの生態系の植生はまばらで、低い高さの光合成生物で構成されており、水を保存し厳しい条件に耐えるよう適応しています。植物はしばしば深い根系、葉の表面積の縮小、ワックス状の被膜、または組織内に水を蓄える能力（例：多肉植物）などの形態的適応を示します。これらの適応により、長期的な干ばつ時の生存と、短期間の資源過剰時の迅速な利用が可能になります。動物も同様に適応しており、水分保存、移動性、そして機会的な資源利用を重視した生理的、行動的、生活史的な特徴を持っています。生物はしばしば、低代謝率で長寿命の干ばつ耐性種か、休眠や高い移動性によって一時的な資源を追跡する短命の干ばつ回避種のいずれかです。\n\n地理的には、これらのバイオームは降水量が少ない亜熱帯および大陸地域に分布しています。地形は通常不均一で、侵食された景観、堆積物の分布域、そして植生がまばらなため不安定な表面を特徴とします。侵食と堆積の速度が高く、しばしば人間活動や大型哺乳類によって悪化します。競争的な相互作用は弱いですが、降雨後の資源が豊富な期間には草食性や捕食性が顕著になります。全体として、このバイオームは極端な環境制約とその生物の特殊な適応によって定義されています。"
+      }
+    }
+  },
+  "T6": {
+    "code": "T6",
+    "url": "https://global-ecosystems.org/explore/biomes/T6",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_6.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T6_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_6_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T6_18.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_6_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T6_19.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_6_3.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T6_20.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_6_4.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T6_21.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_6_5.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T6_22.jpg"
+      }
+    ],
+    "image_count": 6,
+    "i18n": {
+      "en": {
+        "name": "T6Polar/alpine (cryogenic) biome",
+        "description": "The Polar-alpine biome spans the Arctic, Antarctic, and high-altitude mountainous regions worldwide. It is characterized by extreme cold, low insolation, high winds, and desiccating conditions, with seasonal snow cover in many areas. Temperatures are consistently low, limiting metabolic activity, primary productivity, and the length of growing seasons. Microbial decomposition is slow, leading to peat accumulation in the most productive areas. Ecosystems within the biome vary according to local temperature and light gradients, with standing biomass generally low and influenced by cold severity and insolation levels.\n\nVegetation is sparse and adapted to harsh conditions. In the coldest areas with perennial snow or ice, microbial life dominates, supplemented by crustose lichens, bryophytes, and algae on exposed rock surfaces. In slightly warmer regions with higher insolation, forbs, grasses, and dwarf shrubs with slow growth rates and long lifespans become more prominent, sometimes forming continuous vegetation cover. This vegetation provides habitat and food for invertebrates and vertebrates, though trophic webs are simple and populations of larger vertebrates are often migratory or itinerant.\n\nSeasonal snow cover insulates dormant plants and animals during winter, aiding their survival and emergence in spring. Dormancy is a common adaptation, alongside diverse physiological, behavioral, and morphological traits that enhance cold tolerance. The biome’s geographic distribution includes polar regions and high-altitude terrains, with ecosystems shaped by extreme climatic and environmental conditions."
+      },
+      "zh": {
+        "name": "T6: 极地/高山（冰冻）生物群系",
+        "description": "极地-高山生物群系分布于北极、南极以及全球高海拔山区。其特点是极端寒冷、低日照、高风速和干燥条件，许多地区有季节性积雪覆盖。温度持续偏低，限制了代谢活动、初级生产力和生长季节的长度。微生物分解缓慢，在最具生产力的地区会导致泥炭的积累。该生物群系内的生态系统根据局部温度和光照梯度而变化，总体生物量较低，并受到寒冷程度和日照水平的影响。\n\n植被稀少且适应严酷环境。在最寒冷的地区，常年积雪或冰层覆盖，微生物生命占主导地位，裸露岩石表面上有壳状地衣、苔藓和藻类分布。在稍暖且日照较多的区域，生长缓慢且寿命较长的草本植物、禾本科植物和矮灌木更为显著，有时会形成连续的植被覆盖。这些植被为无脊椎动物和脊椎动物提供了栖息地和食物，尽管食物网较为简单，大型脊椎动物的种群通常是迁徙性或流动性的。\n\n季节性积雪在冬季为休眠的植物和动物提供隔热保护，帮助它们在春季存活并复苏。休眠是一种常见的适应方式，同时还包括多样的生理、行为和形态特征，以增强对寒冷的耐受性。该生物群系的地理分布包括极地地区和高海拔地形，其生态系统受极端气候和环境条件的塑造。"
+      },
+      "ja": {
+        "name": "T6: 極地/高山（極寒）バイオーム",
+        "description": "極地・高山生物群系は、北極、南極、および世界中の高地山岳地帯に広がっています。この生物群系は、極端な寒冷、低い日射、高風速、乾燥した環境、および多くの地域での季節的な積雪によって特徴づけられます。気温は常に低く、代謝活動、一次生産性、および成長期の長さが制限されます。微生物の分解は遅く、最も生産性の高い地域では泥炭の蓄積が見られます。この生物群系内の生態系は、局所的な気温や光の勾配によって異なり、立ち木量は一般的に低く、寒冷の厳しさや日射量に影響されます。\n\n植生はまばらで、厳しい条件に適応しています。永年雪や氷に覆われた最も寒冷な地域では、微生物が優勢であり、露出した岩の表面にはクラスト地衣類、コケ植物、藻類が補完的に生息しています。やや温暖で日射量が多い地域では、成長速度が遅く寿命が長い草本植物、イネ科植物、低木がより顕著になり、時には連続した植生被覆を形成します。この植生は無脊椎動物や脊椎動物に生息地や食料を提供しますが、栄養段階の網は単純で、大型脊椎動物の個体群はしばしば移動性または巡回性です。\n\n季節的な積雪は、冬の間、休眠中の植物や動物を断熱し、春の生存と出現を助けます。休眠は一般的な適応であり、寒冷耐性を高める多様な生理的、行動的、形態的特徴と共に見られます。この生物群系の地理的分布には、極地地域や高地地形が含まれ、その生態系は極端な気候および環境条件によって形成されています。"
+      }
+    }
+  },
+  "T7": {
+    "code": "T7",
+    "url": "https://global-ecosystems.org/explore/biomes/T7",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_7.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T7_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_7_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T7_18.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_7_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T7_19.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_7_3.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T7_20.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_7_4.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T7_21.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/t_7_5.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_T7_22.jpg"
+      }
+    ],
+    "image_count": 6,
+    "i18n": {
+      "en": {
+        "name": "T7Intensive land-use biome",
+        "description": "Intensive land-use systems, or anthromes, are ecosystems heavily influenced by human activities such as cropping, pastoralism, plantation farming, and urbanisation. These systems are characterised by significant human intervention, including vegetation clearing, earthworks, drainage, irrigation, fertilisation, and biota manipulation. They rely on continuous human maintenance to sustain their structure and function, resulting in disequilibrium community composition, low endemism, and reduced functional and taxonomic diversity.\n\nThe environment of these systems typically features temperate or subtropical climates, with moderate temperatures and natural freshwater availability. Fertile soils on flat or gently undulating terrain are common, facilitating accessibility for machinery. Light availability is often manipulated through land clearing, while water cycles are altered by irrigation and drainage systems. Local temperatures may be influenced by heat-island effects from built structures or controlled artificially.\n\nOrganisms within these systems include genetically modified target biota designed for rapid growth, efficient resource use, and resilience to environmental stressors, predators, and diseases. Non-target biota consist of cosmopolitan opportunists with short lifecycles, adapted to exploit disturbed environments. Vegetation is often artificially structured into mosaics of contrasting patch types, ranging from metres to hundreds of metres in scale.\n\nGeographically, intensive land-use systems are widespread, replacing antecedent ecosystems such as forests, shrublands, grasslands, and palustrine wetlands. They are prevalent in regions with fertile soils and accessible terrain, often in temperate and subtropical zones. These systems contribute to global climate feedback processes through greenhouse gas emissions and water cycle alterations. Locally, they modify environmental conditions through human-built structures and artificial controls."
+      },
+      "zh": {
+        "name": "T7: 集约化土地利用生物群系",
+        "description": "集约化土地利用系统，或称人类生态系统，是指受人类活动强烈影响的生态系统，例如种植业、牧业、种植园农业和城市化。这些系统的特点是显著的人类干预，包括植被清除、土方工程、排水、灌溉、施肥以及生物群的操控。它们依赖持续的人类维护来维持其结构和功能，导致群落组成失衡、地方特有种较少，以及功能和分类多样性降低。\n\n这些系统的环境通常具有温带或亚热带气候，气温适中，自然淡水资源丰富。肥沃的土壤和平坦或微微起伏的地形较为常见，便于机械化操作。通过土地清理来调节光照条件是常见做法，而灌溉和排水系统则改变了水循环。局部气温可能受到建筑物热岛效应的影响，或者通过人工手段进行控制。\n\n这些系统中的生物包括经过基因改造的目标生物群，设计目的是快速生长、高效利用资源，并具备对环境压力、捕食者和疾病的抗性。非目标生物群则包括适应受干扰环境的广布性机会主义生物，它们通常生命周期较短。植被通常被人为结构化为对比鲜明的镶嵌型斑块，规模从几米到数百米不等。\n\n在地理分布上，集约化土地利用系统广泛存在，取代了原先的生态系统，如森林、灌丛、草原和沼泽湿地。它们多见于具有肥沃土壤和便捷地形的地区，通常位于温带和亚热带地区。这些系统通过温室气体排放和水循环改变，对全球气候反馈过程产生影响。在局部范围内，它们通过人造结构和人工控制改变了环境条件。"
+      },
+      "ja": {
+        "name": "T7: 集約的土地利用バイオーム",
+        "description": "集約的土地利用システム、またはアンスローム（anthromes）は、耕作、牧畜、プランテーション農業、都市化などの人間活動によって大きく影響を受けた生態系です。これらのシステムは、植生の除去、土木工事、排水、灌漑、施肥、生物の操作など、顕著な人為的介入を特徴としています。その構造と機能を維持するためには継続的な人間の管理が必要であり、その結果、不均衡な群集構成、低い固有種率、そして機能的および分類学的多様性の減少が見られます。\n\nこれらのシステムの環境は通常、温帯または亜熱帯の気候であり、適度な気温と自然の淡水供給が特徴です。平坦または緩やかに起伏した地形に肥沃な土壌が一般的であり、機械の利用を容易にします。土地の開拓によって光の供給が操作されることが多く、灌漑や排水システムによって水循環が変化します。局所的な気温は、建造物によるヒートアイランド効果や人工的な制御によって影響を受ける場合があります。\n\nこれらのシステム内の生物には、急速な成長、効率的な資源利用、環境ストレス、捕食者、病気への耐性を持つように設計された遺伝子改変された対象生物が含まれます。非対象生物は、短いライフサイクルを持ち、撹乱された環境を利用する能力を持つ汎存的な機会主義者で構成されています。植生はしばしば人工的に構造化され、数メートルから数百メートルのスケールで対照的なパッチタイプのモザイク状に配置されます。\n\n地理的には、集約的土地利用システムは広範囲にわたり、森林、低木地、草原、湿地などの先行する生態系を置き換えています。これらのシステムは、肥沃な土壌とアクセス可能な地形を持つ地域、特に温帯および亜熱帯地域で一般的です。これらのシステムは、温室効果ガスの排出や水循環の変化を通じて、地球規模の気候フィードバックプロセスに寄与しています。局所的には、人為的な構造物や人工的な制御を通じて環境条件を変化させています。"
+      }
+    }
+  },
+  "TF1": {
+    "code": "TF1",
+    "url": "https://global-ecosystems.org/explore/biomes/TF1",
+    "images": [
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/tf_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_TF1_16.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/tf_1_1.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_TF1_19.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/tf_1_2.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_TF1_20.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/tf_1_3.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_TF1_21.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/tf_1_4.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_TF1_22.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/tf_1_5.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_TF1_23.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/tf_1_6.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_TF1_24.jpg"
+      },
+      {
+        "url": "https://red-list-ecosystem.github.io/typology-map-content/assets/uploads/tf_1_7.jpg",
+        "alt": "",
+        "title": "",
+        "local_path": "biome_TF1_25.jpg"
+      }
+    ],
+    "image_count": 8,
+    "i18n": {
+      "en": {
+        "name": "TF1Palustrine wetlands biome",
+        "description": "Palustrine wetlands are ecosystems situated at the interface of terrestrial and freshwater environments, characterized by vegetated floodplains, mires, and groundwater seeps. These wetlands experience variable water regimes, ranging from permanent shallow water or near-surface water tables to seasonal or episodic inundation with extended dry periods. The soil is often saturated, leading to oxygen deprivation below the surface, which suppresses microbial activity and promotes peat accumulation due to production exceeding decomposition. Light and water are periodically abundant, but resource availability and productivity are primarily regulated by interactions between precipitation, evapotranspiration, and surface and substrate morphology.\n\nThese wetlands exhibit spatial heterogeneity, with intricate mosaics of hydrological niches and patch types that differ in structure and biotic composition. At the landscape level, they serve as resource sinks and refuges with higher productivity than surrounding areas. Autotrophs dominate the trophic structure, with amphibious macrophytes as the primary producers. These plants possess specialized adaptations for survival in low-oxygen substrates and often modify their habitats to support heterotrophs. Epibenthic algae also contribute to primary production in some systems.\n\nThe ecosystem supports diverse organisms, including microbial decomposers and invertebrate detritivores in surface soils. Microscopic and macroinvertebrates, such as crustaceans with sedentary adult phases, are closely associated with these wetlands. Palustrine wetlands also provide critical foraging and breeding habitats for macroinvertebrates, vertebrate herbivores, predators, and waterbirds that disperse across the landscape.\n\nGeographically, Palustrine wetlands are considered azonal due to their indirect relationship with climate, allowing them to occur in various regions. They are often associated with floodplains, flat terrains, and areas with high water tables, forming dynamic and productive ecosystems that support a wide range of biodiversity."
+      },
+      "zh": {
+        "name": "TF1: 沼泽湿地生物群系",
+        "description": "沼泽湿地是位于陆地与淡水环境交界处的生态系统，其特征是植被覆盖的洪泛平原、泥炭地和地下水渗出区。这些湿地的水文状况多变，从永久性浅水或近地表水位到季节性或偶发性淹水并伴随长期干旱不等。土壤通常处于饱和状态，导致地表以下缺氧，从而抑制微生物活动，并因生产超过分解而促进泥炭的积累。光照和水分周期性丰富，但资源的可用性和生产力主要受降水、蒸散作用以及地表和基质形态之间相互作用的调控。\n\n这些湿地表现出空间异质性，形成复杂的水文生态位和结构及生物组成不同的斑块类型的镶嵌体。在景观层面上，它们作为资源汇和避难所，其生产力高于周围地区。自养生物在营养结构中占主导地位，两栖大型水生植物是主要生产者。这些植物具有适应低氧基质生存的特殊能力，并常常通过改变其栖息地来支持异养生物。在某些系统中，底栖藻类也对初级生产作出贡献。\n\n该生态系统支持多样化的生物，包括表层土壤中的微生物分解者和无脊椎动物食腐者。微观和大型无脊椎动物（如具有静止成体阶段的甲壳类动物）与这些湿地密切相关。沼泽湿地还为大型无脊椎动物、脊椎动物食草者、捕食者以及在景观中迁徙的水鸟提供了重要的觅食和繁殖栖息地。\n\n从地理上看，沼泽湿地被认为是非地带性的，因为它们与气候的关系间接，从而能够分布于不同地区。它们通常与洪泛平原、平坦地形以及高水位区域相关，形成动态且富有生产力的生态系统，支持广泛的生物多样性。"
+      },
+      "ja": {
+        "name": "TF1: 沼沢湿地バイオーム",
+        "description": "パルストリーヌ湿地は、陸域と淡水環境の境界に位置する生態系であり、植生のある氾濫原、湿原、地下水の湧出地によって特徴づけられます。これらの湿地は、浅い水域や地表近くの水位が恒常的に存在する状態から、季節的または断続的な浸水と長期間の乾燥を伴う変動する水環境を経験します。土壌はしばしば飽和状態となり、地表下で酸素が欠乏することで微生物活動が抑制され、分解よりも生産が上回るため泥炭の蓄積が促進されます。光と水が周期的に豊富になることがありますが、資源の利用可能性と生産性は主に降水量、蒸発散、地表および基盤の形態との相互作用によって規定されます。\n\nこれらの湿地は空間的な異質性を示し、構造や生物的組成が異なる複雑な水文学的ニッチやパッチタイプのモザイクを形成します。景観レベルでは、これらは資源の吸収地や避難所として機能し、周囲の地域よりも高い生産性を持ちます。栄養段階では独立栄養生物が優勢であり、両生性の大型水生植物が主要な生産者となっています。これらの植物は低酸素状態の基盤で生存するための特殊な適応を持ち、しばしばその生息地を改変して従属栄養生物を支えます。一部のシステムでは底生藻類も一次生産に寄与しています。\n\nこの生態系は、表層土壌における微生物分解者や無脊椎動物の腐食食者を含む多様な生物を支えています。微視的および大型の無脊椎動物、例えば成体期に定住性を持つ甲殻類は、これらの湿地と密接に関連しています。パルストリーヌ湿地はまた、景観全体に分布する大型無脊椎動物、脊椎動物の草食者、捕食者、水鳥にとって重要な採餌および繁殖地を提供します。\n\n地理的には、パルストリーヌ湿地は気候との間接的な関係により非地帯性と見なされ、さまざまな地域で発生することが可能です。これらはしばしば氾濫原、平坦な地形、高い水位を持つ地域に関連しており、動的で生産性の高い生態系を形成し、広範な生物多様性を支えています。"
+      }
+    }
+  }
+}
